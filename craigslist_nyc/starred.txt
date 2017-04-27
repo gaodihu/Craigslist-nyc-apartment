@@ -37,7 +37,7 @@ About to send email to : pbwbv-6105670775@hous.craigslist.org (https://newyork.c
   "body": [
     "<section id=\"postingbody\">\n        <div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/que/roo/6105670775.html\"></div>\n        </div>\nThis apartment is essentially two studio apartments connected by a kitchen. Each large bedroom has a private bathroom and its own entrance. The kitchen has a washer and dryer unit. My roommate is wonderful and is staying, so we have one opening. I'm leaving for personal reasons, and am a little heartbroken to leave this gorgeous space.<br>\n<br>\nThe ideal roommate is:<br>\n- Female<br>\n- A professional<br>\n- Non-smoker (this apartment is drug-free)<br>\n- On the quieter side<br>\n- Interested in living one block away from MoMA PS1 and a few blocks away from the LIC waterfront!<br>\n<br>\nNote: the only shared space is the kitchen. There is no common area, because each bedroom is quite large.    </section>"
   ], 
-  "duration": 1158, 
+  "duration": 1486, 
   "email_addr": "pbwbv-6105670775@hous.craigslist.org", 
   "female_only": false, 
   "latitude": "40.744860", 
@@ -57,28 +57,28 @@ About to send email to : pbwbv-6105670775@hous.craigslist.org (https://newyork.c
   "update_time": "2017-04-26T15:30:27-0400", 
   "url": "https://newyork.craigslist.org/que/roo/6105670775.html"
 }
-About to send email to : mhmqm-6105362340@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6105362340.html)!
+About to send email to : mfhmx-6105506585@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6105506585.html)!
 {
   "availability_start": "available jun 1", 
   "body": [
-    "<section id=\"postingbody\">\n        <div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6105362340.html\"></div>\n        </div>\nHi everyone, <br>\n<br>\nMy roommate is leaving our apartment soon (\u2639) to move to Korea (\u263a). Honestly, we love our apartment and it's in a really great location. I'm looking for one person to take her place! <br>\n<br>\nABOUT YOUR NEW APARTMENT: <br>\n<br>\n-\tAt the corner of 125 and Broadway in Morningside/West Harlem. <br>\n-\tA (literal) minute away from the very reliable 1 train and about ten minutes from the ABCD. <br>\n-\tIf buses are your thing we have those, too. Outside of our front door is the M4 and M104 for easy access to the east side. The M60 is five minutes away,  making getting to Queens (and LGA) super convenient. <br>\n-\tRiverside Park and the beautiful Hudson River pier are minutes away. <br>\n-\tFairway Market is a 6-minute walk and C-Town and Duane Reade are even closer. <br>\n-\tWe sit above many restaurants and bodegas. Starbucks moved a couple of doors down a couple of months ago. A new cocktail bar opened up recently (their pineapple cider is to die for), Jin Ramen is down the block, there is a killer juice/ health food store right downstairs, and Dino BBQ is also very close. <br>\n-\tThere are also tons of great food/ bar/ grocer options on Amsterdam ave, only a five minute walk away.<br>\n-       There are two laundry services as well as a laundromat within two blocks of the apartment. <br>\n-\tColumbia is a ten minute walk away!<br>\n-\tThe room has a window, a pretty spacious closet, and could fit a twin or full bed. <br>\n-\tThe rent is $1,100/month. Utilities generally run around $100/month per person. It's a little higher during the summer. <br>\n<br>\nI AM:<br>\n<br>\n-\tA 25-year-old female, usually gone between 12:00 PM &amp; 8:00 PM, M-F. <br>\n-\tOften ghostlike (ask my current roommate), so often it'll feel as if you have the apartment to yourself. <br>\n-\tPretty laid back and I like to bake cookies. <br>\n-\tOpen to having friends over! <br>\n<br>\n<br>\nTO MOVE IN: <br>\n<br>\n-\tYou'll need a sense of humor plus $2,200 (first month &amp; security). <br>\n-\tTo sign onto the lease (which, is necessary) you have to prove your income (they like ~$60,000/year) or have a guarantor to back you. <br>\n-\tThe move in is for June 1st, but for the right person, earlier is definitely possible. <br>\n-\tWe are looking to show the apartment on this Sunday afternoon. Please shoot me a message to set this up. We look forward to hearing from you! :)<br>\n    </section>"
+    "<section id=\"postingbody\">\n        <div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6105506585.html\"></div>\n        </div>\n<br>\nSeeking a roommate who will be comfortable living in Harlem with an AA Female <br>\nin Manhattan.<br>\n<br>\nRoom Available June 1, 2017<br>\n<br>\nNew York City - Beginning of Harlem<br>\nSecurity Camera System Building<br>\n(6) Month Household Agreement<br>\nEmployed Roommate<br>\n<br>\nPLEASE READ BELOW<br>\nNO DRAMA, Pixs, Children, Couples, Drugs, Smokers, Pets, Incense or<br>\nPerfume/Cologne Users (Allergies). Responsible &amp; CLEANLINESS Is Important<br>\n(Please Do Not Consider Yourself If You're Not Into Cleanliness)<br>\n<br>\nBeautiful Small FURNISHED Room<br>\nFull-Size Bed<br>\nWall Mirror<br>\nMed Size Closet<br>\nParquet Floors<br>\n(5) Tier Wall Shelf<br>\nCeiling Fan  (seasonal)<br>\nColor TV w/DVD &amp; Basic Cable<br>\nTelephone Jack<br>\nHi-Speed Wireless Internet<br>\nExcellent Winter Heat<br>\nWired for Air-Conditioner (additional expense)<br>\n<br>\nShare The Following<br>\nKitchen<br>\nBathroom    </section>"
   ], 
-  "duration": 1368, 
-  "email_addr": "mhmqm-6105362340@hous.craigslist.org", 
+  "duration": 1476, 
+  "email_addr": "mfhmx-6105506585@hous.craigslist.org", 
   "female_only": false, 
-  "latitude": "40.815687", 
-  "longitude": "-73.958292", 
-  "map_accuracy": "15", 
-  "post_time": "2017-04-26T12:34:29-0400", 
-  "price": "1100", 
-  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6105362340", 
+  "latitude": "40.801206", 
+  "longitude": "-73.954639", 
+  "map_accuracy": "7", 
+  "post_time": "2017-04-26T13:54:54-0400", 
+  "price": "850", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6105506585", 
   "thumbnail_img_urls": [], 
-  "title": "room available for june 1st move in, :)", 
+  "title": "apartment share:  small room", 
   "type": "", 
-  "update_time": "2017-04-26T12:34:29-0400", 
-  "url": "https://newyork.craigslist.org/mnh/roo/6105362340.html"
+  "update_time": "2017-04-26T13:54:54-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6105506585.html"
 }
-About to send email to : 3gwh9-6105322063@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6105322063.html)!
+email sent for (https://newyork.craigslist.org/que/roo/6105669793.html)!About to send email to : 3gwh9-6105322063@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6105322063.html)!
 {
   "availability_start": "available jun 1", 
   "body": [
@@ -140,7 +140,7 @@ About to send email to : 3jnxv-6105308835@hous.craigslist.org (https://newyork.c
   "body": [
     "<section id=\"postingbody\">\n        <div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6105308835.html\"></div>\n        </div>\nCome see a spacious Midtown West room with a ton of natural lighting that fits ...<br>\n<br>\n- a king size bed<br>\n- a desk<br>\n- two closets<br>\n- a futon (yes)<br>\n<br>\nWe're two startup guys and a hedge fund guy looking for our 4th suitemate. Our suite is in Midtown West and is 5 minutes away from the Columbus Circle &amp; Central Park.<br>\n<br>\nSome facts:<br>\n- Subway: AC; BD; NQRW; 1<br>\n- Rent: $1400 - $1450<br>\n- In-Unit Washer &amp; Dryer <br>\n- 2 Bathrooms<br>\n- Real Kitchen &amp; Living Room<br>\n<br>\nLocation:<br>\n- W 57th St. btwn 9th &amp; 10th Aves.<br>\n<br>\nMove-in Date:<br>\n- July 1, 2017<br>\n<br>\nWe're hoping to find someone before we renew our lease in two weeks. <br>\n<br>\nLet me know if you want to come take a look. :)    </section>"
   ], 
-  "duration": 785, 
+  "duration": 1087, 
   "email_addr": "3jnxv-6105308835@hous.craigslist.org", 
   "female_only": false, 
   "latitude": "40.768553", 
@@ -194,6 +194,40 @@ About to text : 15179142022 (https://newyork.craigslist.org/que/sub/6105729245.h
   "update_time": "2017-04-26T16:06:39-0400", 
   "url": "https://newyork.craigslist.org/que/sub/6105729245.html"
 }
+email sent for (https://newyork.craigslist.org/que/roo/6105670775.html)!About to send email to : charlotte.crosstown@gmail.com (https://newyork.craigslist.org/mnh/roo/6106069904.html)!
+About to text : 13473238168 (https://newyork.craigslist.org/mnh/roo/6106069904.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\">\n        <div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6106069904.html\"></div>\n        </div>\nAbout the apartment:<br>\n<br>\nGorgeous, newly renovated, sunny 3BR/1BA apartment! Washer/dryer, dishwasher, stainless steel kitchen and a flat screen TV come with the unit. Heat, hot and cold water included. Electric and WiFi split 3 ways.<br>\nThe location is great: W 106th St and Columbus Ave. Steps to Columbia, B/C/1 trains, Central Park, Whole Foods, Farmers Market, lots of shops and restaurants.<br>\n<br>\nAbout you:<br>\n<br>\nLooking for a male/female student or professional, non-smoker. Someone responsible and able to pay rent on time, respectful, peaceful, with great personal hygiene, cleanliness and organization. Sorry, no couples or room shares. Small pets considered.<br>\n<br>\nAbout the rooms:<br>\n<br>\nRoom 1: $1200*- twin, one window<br>\nRoom 2: $1300*- full, two windows<br>\nRoom 3: $1350*- full/queen, three windows.<br>\nLast month is rent FREE, so the rent is really $1100, $1192 and $1238 net.<br>\n<br>\nApplication:<br>\n<br>\nThere are no fees, but you have to qualify (proof of income: around 40 times the room rent or a guarantor) and your credit will be checked. 1st month's rent + 1 month deposit to move-in. Every roommate will be on the lease. The lease start can be May 15th or June 1st. And the lease end date is May 31st, 2018. Sublets are allowed.<br>\n<br>\nIf you have any questions and would like to see the apartment, please email Charlotte at \n <a href=\"/fb/nyc/roo/6106069904\" class=\"showcontact\" title=\"click to show contact info\" rel=\"nofollow\">show contact info</a>\n. Or text her \n <a href=\"/fb/nyc/roo/6106069904\" class=\"showcontact\" title=\"click to show contact info\" rel=\"nofollow\">show contact info</a>\n<br>\n<br>\nLooking forward to meeting you!    </section>"
+  ], 
+  "duration": 1439, 
+  "email_addr": "charlotte.crosstown@gmail.com", 
+  "female_only": false, 
+  "latitude": "40.799192", 
+  "longitude": "-73.962922", 
+  "map_accuracy": "7", 
+  "phone_number": "13473238168", 
+  "post_time": "2017-04-26T20:18:21-0400", 
+  "price": "1200", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6106069904", 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00b0b_gAaMmDSf0CE_600x450.jpg", 
+    "https://images.craigslist.org/00Y0Y_dvo8fBSyMYi_600x450.jpg", 
+    "https://images.craigslist.org/00T0T_bgRjo11WPSd_600x450.jpg", 
+    "https://images.craigslist.org/00v0v_dx6TECF6Yqc_600x450.jpg", 
+    "https://images.craigslist.org/00x0x_bD90GBaPwF9_600x450.jpg", 
+    "https://images.craigslist.org/00w0w_63URPy9oVq4_600x450.jpg", 
+    "https://images.craigslist.org/00t0t_fyxKMKj2gKH_600x450.jpg", 
+    "https://images.craigslist.org/00C0C_9myqZOBimDc_600x450.jpg", 
+    "https://images.craigslist.org/00t0t_9Y9Il0j4R46_600x450.jpg", 
+    "https://images.craigslist.org/01515_1oGUjI0Lh7q_600x450.jpg"
+  ], 
+  "title": "seeking m/f roommate! uws, steps columbia, central park, 1/b/c trains", 
+  "type": "", 
+  "update_time": "2017-04-26T20:18:21-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6106069904.html"
+}
 About to text : 14157222485 (https://newyork.craigslist.org/mnh/roo/6105591251.html)!
 {
   "availability_start": "available jun 1", 
@@ -232,7 +266,7 @@ About to send email to : 3b5mf-6106190777@hous.craigslist.org (https://newyork.c
   "body": [
     "<section id=\"postingbody\">\n        <div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6106190777.html\"></div>\n        </div>\nWe're helping New Yorkers find and apply to affordable housing. You must apply and be accepted before being placed. We work with the city of NY and Housing and Urban Development to help you apply to affordable housing. This includes Immigrants, Seniors, Students and Professionals that meet the income requirement.<br>\n<br>\nSign up at www.keysnag.com to be notified when we launch. <br>\n<br>\nAlso follow us on instagram for updates @keysnagapp    </section>"
   ], 
-  "duration": 1293, 
+  "duration": 1479, 
   "email_addr": "3b5mf-6106190777@hous.craigslist.org", 
   "female_only": false, 
   "latitude": "40.748400", 
@@ -247,3 +281,4 @@ About to send email to : 3b5mf-6106190777@hous.craigslist.org (https://newyork.c
   "update_time": "2017-04-26T22:12:16-0400", 
   "url": "https://newyork.craigslist.org/mnh/roo/6106190777.html"
 }
+email sent for (https://newyork.craigslist.org/mnh/roo/6105506585.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6105322063.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6105308835.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6105297131.html)!email sent for (https://newyork.craigslist.org/que/sub/6105729245.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6106069904.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6106190777.html)!

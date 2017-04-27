@@ -31,10 +31,11 @@ found_results = dict()
 send_email = True
 duration_threshold = 1500
 price_threshold = 1500
+email_web_service = "http://localhost:5000/send"
 
 class MySpider(Spider):
     name = "craig"
-    allowed_domains = ["craigslist.org", "maps.googleapis.com"]
+    allowed_domains = ["craigslist.org", "maps.googleapis.com", "localhost"]
     start_urls = [start_url + "?" + get_params]
 
     def __init__(self):
@@ -238,6 +239,10 @@ class MySpider(Spider):
     # def analyze_url(self, url):
     #     print "analyzing!"
 
+    def parse_email_response(self, response, url):
+        print "email sent for (" + url + ")!"
+        self.log_starred("email sent for (" + url + ")!")
+
     def send_email_inquiry(self, response, url):
         able_to_connect = False
         try:
@@ -246,9 +251,11 @@ class MySpider(Spider):
             print "About to send email to : " + email_addr + "(" + url + ")!"
             self.log_starred("About to send email to : " + email_addr + " (" + url + ")!" + "\n")
             self.log_actions("About to send email to : " + email_addr + " (" + url + ")!" + "\n")
+            yield Request(email_web_service + "?email= " + email_addr + "&cl=" + url, callback = 
+                    lambda x : self.parse_email_response(x, url))
             able_to_connect = True
-        except IndexError:
-            print "Cannot grab email address from " + response.url
+        except IndexError as e:
+            print str(e)
 
         try:
             phone_number = response.xpath('//a[@class="reply-tel-link"]/@href').extract()[0]
@@ -257,7 +264,8 @@ class MySpider(Spider):
             self.log_starred("About to text : " + found_results[url]["phone_number"] + " (" + url + ")!" + "\n")
             self.log_actions("About to text : " + found_results[url]["phone_number"] + " (" + url + ")!" + "\n")
             able_to_connect = True
-        except IndexError:
+        except IndexError as e:
+            print str(e)
             print "Cannot grab phone number from " + response.url + ", or phone number not in expected format"
 
         if able_to_connect:

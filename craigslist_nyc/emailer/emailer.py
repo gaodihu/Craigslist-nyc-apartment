@@ -22,7 +22,8 @@ def send_email():
     msg.body = """
 Hi there!
 
-This is Zhehao. I'm planning to move to NYC in mid June, and saw your post (""" + url + """)  on Craigslist. I'm very interested in learning more!
+This is Zhehao. I'm planning to move to NYC in mid June, and saw your post (""" + url + """) on Craigslist. 
+I'm very interested in learning more!
 
 Something about myself:
  - I'm going to work as a software engineer at Bloomberg starting 06/19/17 (ideally looking to move in around that date but flexible)
@@ -35,7 +36,7 @@ Something about myself:
 If the aparment's still available and I might be a good fit, would it be possible to do a FaceTime / Skype call and go over more details?
 My email address is zhehao@cs.ucla.edu, and phone number is 424-333-8516.
 
-Thanks and please let me know!
+Thank you very much and please let me know!
 
 Thanks,
 Zhehao
