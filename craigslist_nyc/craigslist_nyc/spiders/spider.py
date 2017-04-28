@@ -12,7 +12,7 @@ start_url = domain_name + "/search/hhh"
 
 # Params explanation:
 # Posted today, available beyond 30 days
-get_params = "excats=2-17-21-1-17-7-24-10-22-22-1&postedToday=1&max_price=1500&availabilityMode=2&bundleDuplicates=1"
+get_params = "sort=date&excats=2-17-21-1-17-7-24-10-22-22-1&postedToday=1&max_price=1500&availabilityMode=2&bundleDuplicates=1"
 
 write_logs = True
 log_file_name = "logs.txt"
@@ -29,7 +29,7 @@ queried_urls = []
 found_results = dict()
 
 send_email = True
-duration_threshold = 1500
+duration_threshold = 1680
 price_threshold = 1500
 email_web_service = "http://localhost:5000/send"
 

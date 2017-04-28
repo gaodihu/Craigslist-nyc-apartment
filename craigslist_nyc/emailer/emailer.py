@@ -33,7 +33,7 @@ Something about myself:
  - My LinkedIn profile (https://www.linkedin.com/in/zhehao-wang-15739869/).
  - I'll be out of the apartment working most of the time between 9A-8P on weekdays.
 
-If the aparment's still available and I might be a good fit, would it be possible to do a FaceTime / Skype call and go over more details?
+If the apartment's still available and I might be a good fit, would it be possible to do a FaceTime / Skype call and go over more details?
 My email address is zhehao@cs.ucla.edu, and phone number is 424-333-8516.
 
 Thank you very much and please let me know!
