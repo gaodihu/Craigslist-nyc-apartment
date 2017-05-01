@@ -2990,4 +2990,37 @@ About to send email to : ck5b8-6113004412@hous.craigslist.org (https://newyork.c
   "update_time": "2017-05-01T17:49:38-0400", 
   "url": "https://newyork.craigslist.org/mnh/roo/6113004412.html"
 }
-email sent for (https://newyork.craigslist.org/mnh/roo/6112908597.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6113004412.html)!
+email sent for (https://newyork.craigslist.org/mnh/roo/6112908597.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6113004412.html)!About to send email to : t67jw-6112843487@hous.craigslist.org (https://newyork.craigslist.org/mnh/abo/6112843487.html)!
+About to text : 19294538135 (https://newyork.craigslist.org/mnh/abo/6112843487.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/abo/6112843487.html\"></div>\n        </div>\n*Two rooms available in my apartment (4B1B) from June 1 at 471 Malcolm X Blvd. Ideal for young professionals and incoming graduate students<br>\n*Location is 1 minute walk from 135 station on 2 &amp; 3 line, 10 minute walk from 135 station on A &amp; B &amp; C lines<br>\n*Whole-Foods Supermarket, Associated Supermarket, H&amp;M, Marshalls, Starbucks, Duane Reade, CVS, and numerous restaurants and delis within 5-10 minute walking radius<br>\n*Both rooms come with queen-sized bed, study desk, two lamps, built-in wardobe, and functional air-conditioning<br>\n*Apartment includes a shared bathroom, kitchen and living area (w/ TV)<br>\n*Previous tenants are a former Columbia grad student and a French junior product manager<br>\n*Roommates are French creative designer and American actor<br>\n*Rent of each room is $1195 and utilities (Electricity, Water, TV Subscription, etc.. ) are $85<br>\n*First month's rent ($1280) and deposit ($1500) to be paid upfront    </section>"
+  ], 
+  "duration": 1482, 
+  "email_addr": "t67jw-6112843487@hous.craigslist.org", 
+  "female_only": false, 
+  "latitude": "40.813082", 
+  "longitude": "-73.941608", 
+  "map_accuracy": "10", 
+  "phone_number": "19294538135", 
+  "post_time": "2017-05-01T16:04:50-0400", 
+  "price": "1280", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/abo/6112843487", 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00G0G_fPDcFwEmZwn_600x450.jpg", 
+    "https://images.craigslist.org/00a0a_8MDVn6qvXA5_600x450.jpg", 
+    "https://images.craigslist.org/00v0v_fPS2jJhURq_600x450.jpg", 
+    "https://images.craigslist.org/00f0f_1GVCbCFIFlb_600x450.jpg", 
+    "https://images.craigslist.org/01616_fwngTLvZuhE_600x450.jpg", 
+    "https://images.craigslist.org/00U0U_cNy8ICMdP0E_600x450.jpg", 
+    "https://images.craigslist.org/00i0i_f6CNK0iKYzh_600x450.jpg", 
+    "https://images.craigslist.org/00x0x_2evtCPIL8Md_600x450.jpg", 
+    "https://images.craigslist.org/00w0w_lAl1ZY0cIvB_600x450.jpg"
+  ], 
+  "title": "two furnished rooms in central harlem, available from june 1", 
+  "type": "/ 1br - ", 
+  "update_time": "2017-05-01T16:04:50-0400", 
+  "url": "https://newyork.craigslist.org/mnh/abo/6112843487.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/abo/6112843487.html)!

@@ -17107,3 +17107,80 @@
   "update_time": "2017-05-01T17:49:38-0400", 
   "url": "https://newyork.craigslist.org/mnh/roo/6113004412.html"
 }
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/que/roo/6113036740.html\"></div>\n        </div>\nHello!<br><br>\nDo you need to move? Would you like a calm, comfortable place to call home where there's no mess, stress, fuss, or drama? How about in one of Queens' most charming neighborhoods?<br><br>\n***TWO CATS LIVE HERE. IF YOU ARE ALLERGIC THIS ISN'T THE HOME FOR YOU, SORRY***<br><br>\nBedroom inside a spacious ground floor  apartment in charming Kew Gardens is opening up June 1! <br><br>\nGorgeous bedroom fits a queen size bed, long dresser, desk, shelving, side table and more. Glorious closet space with mirrored sliding doors and shelving. Two windows bring in lovely sunlight.<br><br>\n$1200/mo includes all utilities, paper &amp; cleaning products, plus monthly maid service. Huge living room with a kitchen larger than average for NYC.<br><br>\nFive minute walk to LIRR (19 mins to Penn). Ten minute walk to E train @ Union Tpke (35 mins to midtown). Restaurants all around. Super friendly neighbors. Laundry 3 blocks away. <br><br>\nFirst &amp; Security, face-to-face interview + two references required.<br></section>"
+  ], 
+  "duration": 2270, 
+  "female_only": false, 
+  "latitude": "40.707320", 
+  "longitude": "-73.826752", 
+  "map_accuracy": "7", 
+  "post_time": "2017-05-01T18:12:14-0400", 
+  "price": "1200", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6113036740", 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00P0P_hs5TkO2Uzuq_600x450.jpg", 
+    "https://images.craigslist.org/00j0j_4tqK3UuowxA_600x450.jpg", 
+    "https://images.craigslist.org/00y0y_cA9ZrA1yyX6_600x450.jpg", 
+    "https://images.craigslist.org/00u0u_4OSjC0JzJAp_600x450.jpg", 
+    "https://images.craigslist.org/00G0G_50UuqQalwPt_600x450.jpg"
+  ], 
+  "title": "spacious room beautiful light in kew gardens jun 1", 
+  "type": "", 
+  "update_time": "2017-05-01T18:12:14-0400", 
+  "url": "https://newyork.craigslist.org/que/roo/6113036740.html"
+}
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/brk/roo/6113009977.html\"></div>\n        </div>\nHello,<br><br>\nI have a room available to rent in my apartment beginning June 1st.  The apartment is on Columbia Street in Brooklyn. Technically it's in Carroll Gardens but has recently been rebranded Columbia Street Waterfront District. The common areas of the apartment are furnished. The F/G train is a 10-12 minute walk. There is a bus(less than 10 minute ride) that goes to Downtown Brooklyn that takes you to all the trains(2,3,4,5,A,C,R).<br><br>\nRent is $1300 and includes all utilities. Looking for someone responsible.<br><br>\nI'm a 42y/o, male, non-profit attorney and adjunct professor. I'm low key yet not boring. If you're interested in seeing the apartment feel free to reach out.<br><br>\nSidney    </section>"
+  ], 
+  "duration": 2955, 
+  "female_only": false, 
+  "latitude": "40.681707", 
+  "longitude": "-74.004302", 
+  "map_accuracy": "15", 
+  "post_time": "2017-05-01T17:53:25-0400", 
+  "price": "1300", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6113009977", 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00G0G_ceJlGuH1pFN_600x450.jpg", 
+    "https://images.craigslist.org/01616_jakpBJ0zfwI_600x450.jpg", 
+    "https://images.craigslist.org/00M0M_a99e71PpHqG_600x450.jpg"
+  ], 
+  "title": "room for rent in 2br apt.", 
+  "type": "", 
+  "update_time": "2017-05-01T17:53:25-0400", 
+  "url": "https://newyork.craigslist.org/brk/roo/6113009977.html"
+}
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/abo/6112843487.html\"></div>\n        </div>\n*Two rooms available in my apartment (4B1B) from June 1 at 471 Malcolm X Blvd. Ideal for young professionals and incoming graduate students<br>\n*Location is 1 minute walk from 135 station on 2 &amp; 3 line, 10 minute walk from 135 station on A &amp; B &amp; C lines<br>\n*Whole-Foods Supermarket, Associated Supermarket, H&amp;M, Marshalls, Starbucks, Duane Reade, CVS, and numerous restaurants and delis within 5-10 minute walking radius<br>\n*Both rooms come with queen-sized bed, study desk, two lamps, built-in wardobe, and functional air-conditioning<br>\n*Apartment includes a shared bathroom, kitchen and living area (w/ TV)<br>\n*Previous tenants are a former Columbia grad student and a French junior product manager<br>\n*Roommates are French creative designer and American actor<br>\n*Rent of each room is $1195 and utilities (Electricity, Water, TV Subscription, etc.. ) are $85<br>\n*First month's rent ($1280) and deposit ($1500) to be paid upfront    </section>"
+  ], 
+  "duration": 1482, 
+  "female_only": false, 
+  "latitude": "40.813082", 
+  "longitude": "-73.941608", 
+  "map_accuracy": "10", 
+  "post_time": "2017-05-01T16:04:50-0400", 
+  "price": "1280", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/abo/6112843487", 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00G0G_fPDcFwEmZwn_600x450.jpg", 
+    "https://images.craigslist.org/00a0a_8MDVn6qvXA5_600x450.jpg", 
+    "https://images.craigslist.org/00v0v_fPS2jJhURq_600x450.jpg", 
+    "https://images.craigslist.org/00f0f_1GVCbCFIFlb_600x450.jpg", 
+    "https://images.craigslist.org/01616_fwngTLvZuhE_600x450.jpg", 
+    "https://images.craigslist.org/00U0U_cNy8ICMdP0E_600x450.jpg", 
+    "https://images.craigslist.org/00i0i_f6CNK0iKYzh_600x450.jpg", 
+    "https://images.craigslist.org/00x0x_2evtCPIL8Md_600x450.jpg", 
+    "https://images.craigslist.org/00w0w_lAl1ZY0cIvB_600x450.jpg"
+  ], 
+  "title": "two furnished rooms in central harlem, available from june 1", 
+  "type": "/ 1br - ", 
+  "update_time": "2017-05-01T16:04:50-0400", 
+  "url": "https://newyork.craigslist.org/mnh/abo/6112843487.html"
+}
