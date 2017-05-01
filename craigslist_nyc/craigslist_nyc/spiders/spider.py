@@ -6,6 +6,7 @@ from scrapy.xlib.pydispatch import dispatcher
 from craigslist_nyc.items import CraigslistNycItem
 
 import json
+import hashlib
 
 domain_name = "https://newyork.craigslist.org"
 start_url = domain_name + "/search/hhh"
@@ -16,6 +17,8 @@ get_params = "sort=date&excats=2-17-21-1-17-7-24-10-22-22-1&postedToday=1&max_pr
 
 write_logs = True
 log_file_name = "logs.txt"
+pic_hash_file_name = "pic-hashes.txt"
+body_hash_file_name = "body-hashes.txt"
 result_file_name = "results.txt"
 queried_urls_path = "urls.txt"
 starred_path = "starred.txt"
@@ -26,6 +29,8 @@ google_directions_query_key = "AIzaSyDfbd9R06aZ304FMrqYD34sMrVKMrepv6E"
 directions_query_prefix = "https://maps.googleapis.com/maps/api/directions/json?destination=40.761879,-73.968401&mode=transit&key=" + google_directions_query_key + "&origin="
 
 queried_urls = []
+queried_pics = []
+queried_bodies = []
 found_results = dict()
 
 send_email = True
@@ -55,6 +60,18 @@ class MySpider(Spider):
                 queried_urls = queried_urls_file.read().splitlines()
         except IOError:
             queried_urls = []
+
+        try:
+            with open(pic_hash_file_name, "r") as pics_file:
+                queried_pics = pics_file.read().splitlines()
+        except IOError:
+            queried_pics = []
+
+        try:
+            with open(body_hash_file_name, "r") as body_file:
+                queried_bodies = body_file.read().splitlines()
+        except IOError:
+            queried_bodies = []
 
         selector = Selector(response)
         titles = selector.xpath("//a[@class='result-title hdrlnk']")
@@ -92,6 +109,14 @@ class MySpider(Spider):
         with open(actions_path, "a") as actions_file:
             actions_file.write(msg)
 
+    def log_pic_hashes(self, msg):
+        with open(pic_hash_file_name, "a") as pics_file:
+            pics_file.write(msg)
+
+    def log_body_hashes(self, msg):
+        with open(body_hash_file_name, "a") as body_file:
+            body_file.write(msg)
+
     def parse_listing(self, response):
         selector = Selector(response)
         queried_urls.append(response.url)
@@ -104,16 +129,32 @@ class MySpider(Spider):
 
         try:
             title = response.xpath('//title/text()').extract()[0].lower()
+            m = hashlib.sha256()
+            m.update(title)
+            digest = m.hexdigest()
+            if digest in queried_bodies:
+                skip_entry = True
+            else:
+                queried_bodies.append(digest)
+                self.log_body_hashes(digest)
         except IndexError:
             title = ""
             self.log_error("===== Failed to get title (" + response.url + "): =====\n" + response.text + "\n\n")
 
-        female_only = False
+        skip_entry = False
         try:
             body = response.xpath('//section[@id="postingbody"]').extract()
             body_str = str(body).lower()
             if "older female" in title or "older female" in body_str or "aa female" in body_str or "female only" in body_str or "females only" in body_str or "only female" in body_str or "girl only" in body_str or "girls only" in body_str or "only girl" in body_str:
-                female_only = True
+                skip_entry = True
+            m = hashlib.sha256()
+            m.update(body_str)
+            digest = m.hexdigest()
+            if digest in queried_bodies:
+                skip_entry = True
+            else:
+                queried_bodies.append(digest)
+                self.log_body_hashes(digest)
         except IndexError:
             body = ""
             self.log_error("===== Failed to get body (" + response.url + "): =====\n" + response.text + "\n\n")
@@ -195,7 +236,7 @@ class MySpider(Spider):
             "thumbnail_img_urls": thumbnail_img_urls,
             "url": response.url,
             "reply_link": reply_link,
-            "female_only": female_only
+            "skip_entry": skip_entry
         }
 
         if enable_directions_query:
@@ -219,7 +260,7 @@ class MySpider(Spider):
                 # print "before!"
                 if int(found_results[referrer_url]["duration"]) < duration_threshold and int(found_results[referrer_url]["price"]) < price_threshold:
                     if send_email:
-                        if found_results[referrer_url]["female_only"]:
+                        if found_results[referrer_url]["skip_entry"]:
                             print "Interested but female only: (" + referrer_url + ")!"
                         else:
                             yield Request(found_results[referrer_url]["reply_link"], callback = 
