@@ -136,7 +136,7 @@ class MySpider(Spider):
                 skip_entry = True
             else:
                 queried_bodies.append(digest)
-                self.log_body_hashes(digest)
+                self.log_body_hashes(digest + "\n")
         except IndexError:
             title = ""
             self.log_error("===== Failed to get title (" + response.url + "): =====\n" + response.text + "\n\n")
@@ -154,7 +154,7 @@ class MySpider(Spider):
                 skip_entry = True
             else:
                 queried_bodies.append(digest)
-                self.log_body_hashes(digest)
+                self.log_body_hashes(digest + "\n")
         except IndexError:
             body = ""
             self.log_error("===== Failed to get body (" + response.url + "): =====\n" + response.text + "\n\n")
