@@ -112,7 +112,7 @@ class MySpider(Spider):
         try:
             body = response.xpath('//section[@id="postingbody"]').extract()
             body_str = str(body).lower()
-            if "female only" in body_str or "females only" in body_str or "only female" in body_str or "girl only" in body_str or "girls only" in body_str or "only girl" in body_str:
+            if "older female" in title or "older female" in body_str or "aa female" in body_str or "female only" in body_str or "females only" in body_str or "only female" in body_str or "girl only" in body_str or "girls only" in body_str or "only girl" in body_str:
                 female_only = True
         except IndexError:
             body = ""
