@@ -126,6 +126,7 @@ class MySpider(Spider):
         if removed:
             self.log_result("Post " + response.url + " has been removed")
             return
+        skip_entry = False
 
         try:
             title = response.xpath('//title/text()').extract()[0].lower()
@@ -141,7 +142,6 @@ class MySpider(Spider):
             title = ""
             self.log_error("===== Failed to get title (" + response.url + "): =====\n" + response.text + "\n\n")
 
-        skip_entry = False
         try:
             body = response.xpath('//section[@id="postingbody"]').extract()
             body_str = str(body).lower()
