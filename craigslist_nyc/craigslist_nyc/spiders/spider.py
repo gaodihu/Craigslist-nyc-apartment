@@ -13,7 +13,7 @@ start_url = domain_name + "/search/hhh"
 
 # Params explanation:
 # Posted today, available beyond 30 days
-get_params = "sort=date&excats=2-17-21-1-17-7-24-10-22-22-1&postedToday=1&max_price=1500&availabilityMode=2&bundleDuplicates=1"
+get_params = "sort=date&excats=2-17-21-1-17-7-24-10-22-22-1&postedToday=1&max_price=1500&availabilityMode=1&bundleDuplicates=1"
 
 write_logs = True
 log_file_name = "logs.txt"
@@ -37,6 +37,8 @@ send_email = True
 duration_threshold = 1680
 price_threshold = 1500
 email_web_service = "http://localhost:5000/send"
+
+strict_availability = True
 
 class MySpider(Spider):
     name = "craig"
@@ -212,10 +214,14 @@ class MySpider(Spider):
 
         try:
             availability_start = response.xpath('//span[contains(@class,"property_date")]/text()').extract()[0]
+            if strict_availability:
+                if not "jun" in availability_start.lower():
+                    skip_entry = True
         except IndexError:
             availability_start = ""
             self.log_error("===== Failed to get availability_start (" + response.url + "): =====\n" + response.text + "\n\n")
-
+            if strict_availability:
+                skip_entry = True
         try:
             reply_link = response.xpath('//a[@id="replylink"]/@href').extract()[0]
             reply_link = self.derive_full_link(reply_link)
@@ -261,7 +267,7 @@ class MySpider(Spider):
                 if int(found_results[referrer_url]["duration"]) < duration_threshold and int(found_results[referrer_url]["price"]) < price_threshold:
                     if send_email:
                         if found_results[referrer_url]["skip_entry"]:
-                            print "Interested but female only: (" + referrer_url + ")!"
+                            print "Interested but skipped: (" + referrer_url + ")!"
                         else:
                             yield Request(found_results[referrer_url]["reply_link"], callback = 
                                 lambda x : self.send_email_inquiry(x, referrer_url))
