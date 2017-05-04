@@ -303,7 +303,10 @@ class MySpider(Spider):
             able_to_connect = True
         except IndexError as e:
             print str(e)
-
+            print "Cannot grab email address from " + response.url + "! Full response"
+            self.log_actions("Want to send email for (" + url + "). But cannot grab email address (possibly due to Captcha)!\n")
+            print response.text
+            
         try:
             phone_number = response.xpath('//a[@class="reply-tel-link"]/@href').extract()[0]
             found_results[url]["phone_number"] = phone_number.split(':')[1]
@@ -318,7 +321,8 @@ class MySpider(Spider):
         if able_to_connect:
             self.log_starred(json.dumps(found_results[url], indent = 2, sort_keys = True) + "\n")
             self.starred_cnt += 1
-
+        else:
+            self.log_starred("Starred but unable to CONNECT:" + json.dumps(found_results[url], indent = 2, sort_keys = True) + "\n")
     def spider_closed(self, spider):
         print "Spider about to close, found " + str(self.starred_cnt) + " interested entries!"
 

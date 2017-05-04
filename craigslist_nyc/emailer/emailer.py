@@ -29,7 +29,7 @@ Something about myself:
  - I'm going to work as a software engineer at Bloomberg starting 06/19/17 (ideally looking to move in around that date but flexible)
  - I'm a clean, easy going, and respectful guy turning 24 soon. No habit of partying and won't have guests staying over night.
  - I'm currently living in Los Angeles, and just finished my masters program in Computer Science at UCLA. I'm originally from China but have been living in the US for 4 years.
- - I've a good credit record (750+), and can show proof of income (company offer letter) if required.
+ - I've a good credit record (720+), and can show proof of income (company offer letter) if required.
  - My LinkedIn profile (https://www.linkedin.com/in/zhehao-wang-15739869/).
  - I'll be out of the apartment working most of the time between 9A-8P on weekdays.
 

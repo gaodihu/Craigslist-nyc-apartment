@@ -3957,4 +3957,1154 @@ email sent for (https://newyork.craigslist.org/mnh/roo/6113746140.html)!email se
   "update_time": "2017-05-02T11:44:06-0400", 
   "url": "https://newyork.craigslist.org/mnh/roo/6113918174.html"
 }
-email sent for (https://newyork.craigslist.org/mnh/roo/6113918174.html)!
+email sent for (https://newyork.craigslist.org/mnh/roo/6113918174.html)!About to send email to : 3bk2v-6114101311@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114101311.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114101311.html\"></div>\n        </div>\n<br>\nSecurity deposit ($1,450) and first month's rent ($1,450) = $2,900 gets you in!<br>\nAt least three month stay required, after that it can be month to month or long term.<br><br>\nCompletely furnished room and apartment with everything you need to feel at home.<br>\nAverage Monthly Utilities: $50<br><br>\nAbout the Building:<br>\nIt is rare that a room or apartment in this location ever becomes available because we are located on the same block as one of the only trains that run to the East Village!<br><br>\nThe building is newly renovated, modern, gorgeous, safe and well maintained walk up on 13th and 1st ave. Live in Super with video-buzzer security and we are on the 4th floor. <br><br>\nThe street is quiet and tree lined, walking distance from all the best coffee shops, restaurants, lounges, speakeasy's and boutiques.<br><br>\nAcross the street:<br>\nThe L train stop!<br>\n3 Citi Bike Stations within 2 block radius<br>\n24-hour CVS &amp; Duane Reade<br>\n24-hour fully stocked bodega<br>\nStarbucks &amp; Dunkin Donuts across the street<br>\nSeveral cheap laundry/dry-clean places with free pick-up and delivery<br>\nWine &amp; Liquor store<br>\nSupermarket 1 block away<br>\nNail Salon open late<br>\nBus stop for the cross-town bus and the bus that runs north on 1st ave<br><br>\n8 minute walk to:<br>\nTrader Joe's supermarket and Wine shop<br>\nUnion Square for the 4,5,6,N,Q,R trains and tons of shopping/gyms/workout classes<br>\nKmart at Astor Place<br><br>\nAbout the Room:<br>\nTwo windows that face the courtyard = no noise!<br>\nSeparate from the other two bedrooms = ultimate privacy<br>\nFurnished with a full-size bed with bed-raisers for tons of storage space underneath<br>\nA six drawer dresser<br>\nCloset with hangers<br>\nFull size mirror<br>\nLarge enough to fit another dresser<br>\nBig enough to fit a desk as well as the furniture above<br>\nWindow air conditioning unit for the summer<br>\nRadiator in room for warmth in the winter<br><br>\nAbout the Apt:<br>\nLiving room - nice furniture &amp; freshly painted<br>\nBrand new bathroom!! (tile and vanity) full tub and shower-- shelf space for your things<br>\nBrand new kitchen with black granite, spacey fridge and a dishwasher!<br>\nNew gas stove, oven, &amp; microwave<br>\nDeep stainless-steel sink with pull-out faucet<br>\nKitchen fully stocked with dishes, spices and various tools for cooking<br>\nPolished wood floors and matching door trim<br>\nVERY CLEAN!<br><br>\nAbout Us:<br>\nI am a 26 year old young professional female who works in ad-tech, is laid back, friendly, clean and rarely home. The other roommate is a 28 year old male working in events who is generous, great energy, and super easy going!<br><br>\nWe will be showing this apartment after 7pm this week so please e-mail with any questions and to set up a time. We will be giving the room to whoever has the money and is the best fit. First come first serve!    </section>"
+  ], 
+  "duration": 1130, 
+  "email_addr": "3bk2v-6114101311@hous.craigslist.org", 
+  "latitude": "40.730507", 
+  "longitude": "-73.982715", 
+  "map_accuracy": "10", 
+  "post_time": "2017-05-02T13:29:35-0400", 
+  "price": "1450", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114101311", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/01313_6SVW38P4ndQ_600x450.jpg", 
+    "https://images.craigslist.org/00C0C_a6bZSWMBS7l_600x450.jpg", 
+    "https://images.craigslist.org/00F0F_6QMICAfAjUo_600x450.jpg", 
+    "https://images.craigslist.org/00I0I_inStBzldEeh_600x450.jpg", 
+    "https://images.craigslist.org/00O0O_70g6t5XwRb3_600x450.jpg", 
+    "https://images.craigslist.org/01515_1ag5TMPg2ec_600x450.jpg", 
+    "https://images.craigslist.org/00101_8ffavaqzIYK_600x450.jpg", 
+    "https://images.craigslist.org/00303_jt4aFIN9Zk4_600x450.jpg"
+  ], 
+  "title": "lrge frnshed bdrm at cornr of l train! renovated", 
+  "type": "", 
+  "update_time": "2017-05-02T13:29:35-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114101311.html"
+}
+About to send email to : jz9xh-6114079884@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114079884.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114079884.html\"></div>\n        </div>\nNew to New York or looking to move out of your shoebox Manhattan apartment and into a large, recently renovated elevator building?<br><br>\nLook no further, we've got the best spot in town! We're looking for a female tenant to sign a one-year lease and move into our fantastic, sunny 5-bedroom, 2.5 bathroom Upper West Side apartment on June 1st. True private bedrooms...no fake walls or anything. Large living room, huge kitchen, laundry in the building, live-in super. The common areas are completely furnished.<br><br>\nThe tenant is moving out of the apartment and in with a significant other. The original leaseholders signed the lease more than 10 years ago and it's been passed down throughout the years. It's truly a hidden gem in Manhattan. I love this place and you will, too.<br><br>\nThe bedroom has a tall closet, large window and can hold a queen size bed and two dressers comfortably. <br><br>\nThe apartment is located on the corner of West 96th and Broadway, a 30-second walk to the 1-2-3 express trains: a 5-minute ride to Times Square, 8-minute ride to 14th Street, and 15-minutes to Wall Street. We've got all the major banks within a one block radius, Westside Market one block away, and Whole Foods 3 blocks away. We're right between Central Park and Riverside Park. Basically, everything you could imagine is close-by.<br><br>\nYour rent will be $1,350 plus utilities (cable/wifi/electric)<br><br>\nThe roommates: all four are young professionals in our mid/late-20's working in media. We like to have a good time but don't bring the party home. The females share one bathroom and the males share another, so there's never any awkward interactions.<br><br>\nWe love this place and we're looking forward to welcoming you into our home! Please reach out with a brief bio and a link to your Facebook/LinkedIn profile.    </section>"
+  ], 
+  "duration": 1650, 
+  "email_addr": "jz9xh-6114079884@hous.craigslist.org", 
+  "latitude": "40.794426", 
+  "longitude": "-73.971255", 
+  "map_accuracy": "10", 
+  "post_time": "2017-05-02T13:17:18-0400", 
+  "price": "1350", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114079884", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00n0n_f2131dD5sxk_600x450.jpg", 
+    "https://images.craigslist.org/00e0e_2XdpSPBlKbj_600x450.jpg", 
+    "https://images.craigslist.org/00303_i7rVmCrQeGG_600x450.jpg", 
+    "https://images.craigslist.org/00o0o_9MA5yZEEcOT_600x450.jpg", 
+    "https://images.craigslist.org/00z0z_dadKNnnynpy_600x450.jpg", 
+    "https://images.craigslist.org/00i0i_frdDLktN4Yl_600x450.jpg", 
+    "https://images.craigslist.org/00O0O_dn9raXki9tl_600x450.jpg", 
+    "https://images.craigslist.org/00G0G_eKoeJrNwc9r_600x450.jpg"
+  ], 
+  "title": "bedroom available in great uws apartment 6/1!", 
+  "type": "", 
+  "update_time": "2017-05-02T13:17:18-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114079884.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114101311.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6114079884.html)!About to send email to : vjp3f-6114192461@hous.craigslist.org (https://newyork.craigslist.org/mnh/sub/6114192461.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/sub/6114192461.html\"></div>\n        </div>\nHi! We're looking for a third roommate to join our converted 3-bedroom apartment. Our current roommate is moving in with her boyfriend at the end of May, so we're looking for someone to replace her on June 1. Our lease is up in October, but there's a possibility we'd renew and/or you could take over the lease.<br><br>\nAbout the room: it's a good-sized (for Manhattan!) bedroom that we set up in the far corner of our living room (2 walls are the living room corner (including a north-facing window that gets tons of light), 1 is a gigantic floor-to-ceiling shelving unit, and the 4th is a floor-to-ceiling curtain wall). We're super-respectful and low-key, so noise (given the curtain wall) has never become an issue with that room. The room comes furnished with a full bed, lamp, side table, and air conditioning unit in the window. <br><br>\nAbout the apartment: it's a pre-war (we think?) walk-up building in midtown east, with the E, M, and 6 right on our corner. The apartment is fully furnished and gets tons of natural light. There's also easy in-building laundry access downstairs. Utilities aren't included in the $1100 rent, but, on average, each of us usually pays around $30/month for electricity and $25/month for internet. We don't have cable, but we compensate for that successfully with Apple TV with Netflix, Hulu, HBO, Showtime, etc. :-)<br><br>\nAbout us: we're two mid/late-20s women, both working full-time (roughly 9:30-7, M-F) in digital media. We met as craigslist roommates and became good friends, and are looking for someone who's a great personality fit as well--having a comfortable and respectful home vibe is really important to us. We're laid-back, friendly and active (we don't spend much time in the apartment) and we're looking for the same in a new roommate. When we're home, it's usually to cook, watch a movie/show (we just finished Big Little Lies and Girls together), read, or just hang out and chat. We're clean and respectful of common areas, don't ever \"bring the party home,\" etc.<br><br>\nIf you're interested, please reply to this ad and tell us a bit about yourself (name, age, where you're from, occupation, routine, when you'd want to move in/how long you'd want to stay, any habits we should know about, questions you have for us, etc), and we'll get back to you!    </section>"
+  ], 
+  "duration": 477, 
+  "email_addr": "vjp3f-6114192461@hous.craigslist.org", 
+  "latitude": "40.757400", 
+  "longitude": "-73.968244", 
+  "map_accuracy": "7", 
+  "post_time": "2017-05-02T14:23:07-0400", 
+  "price": "1100", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/sub/6114192461", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00d0d_k9cdY9TWfM1_600x450.jpg", 
+    "https://images.craigslist.org/01111_iDsSYxXsri5_600x450.jpg", 
+    "https://images.craigslist.org/00R0R_8yydjVrrOYt_600x450.jpg", 
+    "https://images.craigslist.org/01717_ja6zREKfmZs_600x450.jpg", 
+    "https://images.craigslist.org/00u0u_8ng5imh8PUA_600x450.jpg", 
+    "https://images.craigslist.org/00u0u_eKmk6VtHXsp_600x450.jpg", 
+    "https://images.craigslist.org/00C0C_3CBbFCCiYVX_600x450.jpg"
+  ], 
+  "title": "furnished flex bedroom available june 1 in converted 3-br apt", 
+  "type": "/ 3br - ", 
+  "update_time": "2017-05-02T14:23:07-0400", 
+  "url": "https://newyork.craigslist.org/mnh/sub/6114192461.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/sub/6114192461.html)!About to send email to : wmbkr-6114148973@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114148973.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114148973.html\"></div>\n        </div>\n*Laundry in Unit <br>\n* Private Outdoor Space  <br>\n*Hardwood Floors  <br>\n*Exposed Brick  <br>\n*Renovated<br><br>\nBedroom starting at $1450- $1550<br>\nAvailable June 1st!<br>\nThree rents needed. (Your portion of the rent).<br><br>\nContact roommate matchmaker/ agent Ivette at 7l8*78l*0184 to view! <br><br>\nWhen contacting please include the following:<br>\nFull Name:<br>\nPhone Number:<br>\nDesired move in date:<br>\nApartment Size:<br>\nPrice Range:<br>\nBest way to contact you:<br></section>"
+  ], 
+  "duration": 1642, 
+  "email_addr": "wmbkr-6114148973@hous.craigslist.org", 
+  "latitude": "40.727468", 
+  "longitude": "-73.979469", 
+  "map_accuracy": "15", 
+  "post_time": "2017-05-02T13:57:05-0400", 
+  "price": "1450", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114148973", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00i0i_isqYKm1kaqE_600x450.jpg", 
+    "https://images.craigslist.org/00e0e_koHLt9WpCtX_600x450.jpg", 
+    "https://images.craigslist.org/00g0g_3bMvTezSUeM_600x450.jpg", 
+    "https://images.craigslist.org/01010_4s1sg14CTEZ_600x450.jpg", 
+    "https://images.craigslist.org/00a0a_6wcC4q0dBxh_600x450.jpg", 
+    "https://images.craigslist.org/00e0e_AHMpiNF12j_600x450.jpg"
+  ], 
+  "title": "bedroom in three bedrooms/ one a half bath apartment@ east village!", 
+  "type": "", 
+  "update_time": "2017-05-02T13:57:05-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114148973.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114148973.html)!About to send email to : psbhs-6114264873@hous.craigslist.org (https://newyork.craigslist.org/brk/roo/6114264873.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/brk/roo/6114264873.html\"></div>\n        </div>\nA room is available in our amazingly located 3 bedroom apartment. We are two busy females in our mid twenties/early thirties working full time exploring the city etc. It is incredibly important to us that our new roommate is clean, a great communicator, and friendly (but you don't have to hang out and watch movies with us if that's not your thing)! Female preferred.    </section>"
+  ], 
+  "duration": 1672, 
+  "email_addr": "psbhs-6114264873@hous.craigslist.org", 
+  "latitude": "40.684395", 
+  "longitude": "-73.978337", 
+  "map_accuracy": "15", 
+  "post_time": "2017-05-02T15:06:43-0400", 
+  "price": "1200", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114264873", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00C0C_lE9N3LN1BmE_600x450.jpg", 
+    "https://images.craigslist.org/00f0f_70lIzJn9zYW_600x450.jpg", 
+    "https://images.craigslist.org/00k0k_c4JYtPgkylo_600x450.jpg", 
+    "https://images.craigslist.org/01717_eDfCYUCuULQ_600x450.jpg", 
+    "https://images.craigslist.org/00P0P_a3eXUaeB640_600x450.jpg", 
+    "https://images.craigslist.org/00K0K_jNxoqPuUW3E_600x450.jpg", 
+    "https://images.craigslist.org/00303_haOM5P3oZR9_600x450.jpg", 
+    "https://images.craigslist.org/00q0q_kVkI2gK53VW_600x450.jpg", 
+    "https://images.craigslist.org/00n0n_2JwitIrvOKe_600x450.jpg"
+  ], 
+  "title": "room available in beautiful 3 bedroom apartment in boerum hill", 
+  "type": "", 
+  "update_time": "2017-05-02T15:12:46-0400", 
+  "url": "https://newyork.craigslist.org/brk/roo/6114264873.html"
+}
+email sent for (https://newyork.craigslist.org/brk/roo/6114264873.html)!About to send email to : vnd3j-6114346314@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114346314.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114346314.html\"></div>\n        </div>\nHi everyone, we have a room available for a 3 month sublet from June 1st through the end of August, with a probable 1 year renewal in September. The apt is on 9th and 53rd. The apartment is on the 2nd floor, two-bedroom, one bath, with a kitchen and living room. You'll be sharing the apt with my bf and I who share the other room. Laundry is across the street, transportation at 53rd/Broadway (BDE trains), 50th/8th (CE trains), 55th/broadway (NQR), 50th/Broadway (1,2)<br><br>\nOur preferences: QPOC, friendly, social, neat, clean (please be actually clean - this is the most important item), responsible, fun, weird, preferably 24 or older, either full-time working, full-time grad student, or comparably occupied artist. Sound like you?? If so, this is what you'll need: First month, last month, and security deposit ($1210 x 3), one-time credit check ($125), and cable/wifi/utilities around $120 a month (includes high-speed internet, cable, DVR, access to PS4, WiiU, Apple TV)    </section>"
+  ], 
+  "duration": 1168, 
+  "email_addr": "vnd3j-6114346314@hous.craigslist.org", 
+  "latitude": "40.765364", 
+  "longitude": "-73.987576", 
+  "map_accuracy": "10", 
+  "post_time": "2017-05-02T15:57:26-0400", 
+  "price": "1210", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114346314", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00k0k_coQI7Ey6RnH_600x450.jpg", 
+    "https://images.craigslist.org/00r0r_glDlk4B0v2V_600x450.jpg", 
+    "https://images.craigslist.org/00N0N_bIHZ4K4s29C_600x450.jpg", 
+    "https://images.craigslist.org/00o0o_f1jQtsF0NJk_600x450.jpg"
+  ], 
+  "title": "1 br in 2br hell's kitchen", 
+  "type": "", 
+  "update_time": "2017-05-02T15:57:26-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114346314.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114346314.html)!About to send email to : fjmkq-6114422436@hous.craigslist.org (https://newyork.craigslist.org/que/roo/6114422436.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/que/roo/6114422436.html\"></div>\n        </div>\nI am a female from Australia and am working a 9-5 in Textiles, looking for a room mate for my 2 bedroom apartment in Jackson Heights, NY. I am clean, quiet and friendly. Looking for someone who is respectful and busy!! Must have a full-time job ;-) <br><br>\nThe room available is very big with large windows that look over the outdoor patio. It is also fully furnished with kitchenware, full sized bed and furniture. <br><br>\nElevator, doorman and laundry on premises! <br><br>\nVery well situated in this up and coming neighborhood, tons of restaurants and walking distance (2 blocks) to the main subway hub of 74th street/Roosevelt station. (E, F, 7 &amp; R trains)<br><br>\nNo pets/ no smoking.<br><br>\nAvailable June 1st <br>\n6 months minimum lease / 1 month deposit. <br><br></section>"
+  ], 
+  "duration": 1309, 
+  "email_addr": "fjmkq-6114422436@hous.craigslist.org", 
+  "latitude": "40.751004", 
+  "longitude": "-73.892121", 
+  "map_accuracy": "15", 
+  "post_time": "2017-05-02T16:46:32-0400", 
+  "price": "1325", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114422436", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00n0n_6VPyCLN1Ujj_600x450.jpg", 
+    "https://images.craigslist.org/00b0b_lF8ckj41NUk_600x450.jpg", 
+    "https://images.craigslist.org/00808_61l8DwYBehB_600x450.jpg", 
+    "https://images.craigslist.org/00u0u_cA40GABJXdC_600x450.jpg", 
+    "https://images.craigslist.org/00I0I_e4sUmRfMHVj_600x450.jpg"
+  ], 
+  "title": "big bedroom, fully furnished!", 
+  "type": "", 
+  "update_time": "2017-05-02T16:46:32-0400", 
+  "url": "https://newyork.craigslist.org/que/roo/6114422436.html"
+}
+email sent for (https://newyork.craigslist.org/que/roo/6114422436.html)!About to send email to : 9s5jw-6114446941@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114446941.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114446941.html\"></div>\n        </div>\nSunshine morning/moon evening, many windows, doormen 24/7, historical building, beautiful white marble interiors, quiet,<br>\n fully equipped electronics, housekeeper, spotlessly clean public areas, A/C, access to all transportation, neighborhood restaurants galore --from luncheonettes to fine dining, all linens provided, easy access to kitchen and living room. <br><br>\nWelcome to come take a look.    </section>"
+  ], 
+  "duration": 918, 
+  "email_addr": "9s5jw-6114446941@hous.craigslist.org", 
+  "latitude": "40.731300", 
+  "longitude": "-73.989200", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-02T17:03:16-0400", 
+  "price": "1300", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114446941", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [], 
+  "title": "the most beautiful neighborhood in manhattan", 
+  "type": "/ 1010ft", 
+  "update_time": "2017-05-02T17:03:16-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114446941.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114446941.html)!About to send email to : czs8v-6114532810@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114532810.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114532810.html\"></div>\n        </div>\nJune 1 to June 30 only. East 72 Street, 2nd-3rd Avenues. Share large, sunny, attractive 2 bedroom, 2 bath apt. with Korean woman. You will have own large (13x19 ft), sunny, furnished bedroom and own bathroom. Very quiet room overlooks garden apartments below. Has large desk and bed. Wifi. Large living room, dining room and kitchen. Luxury building with 24 hr. elevator operators and laundry in building. Great location. Walk to Central Park. Subway and bus across the street. Very convenient, great location. There is a dog, so must be dog-lover. Seek responsible, non-smoker. Your share of rent is $1193 plus $64 for Internet, plus security. Student or international person is fine.    </section>"
+  ], 
+  "duration": 390, 
+  "email_addr": "czs8v-6114532810@hous.craigslist.org", 
+  "latitude": "40.768500", 
+  "longitude": "-73.958800", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-02T18:03:37-0400", 
+  "price": "1193", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114532810", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [], 
+  "title": "east 72 st-june 1 to june 30 share large sunny 2 bedroom, 2 bath apt.", 
+  "type": "", 
+  "update_time": "2017-05-02T18:03:37-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114532810.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114532810.html)!About to send email to : 7zw3b-6114573910@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114573910.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114573910.html\"></div>\n        </div>\nBedroom with lots of natural light available in apartment share with 3 lovely females in a great Hell's Kitchen location. Close to all subways (ACE, 123, NQR all within a few blocks) and a ton of amazing restaurants. 15 minute walk to Central Park. <br><br>\nRoom can fit a full-size bed, has 1 window and a closet. Furniture is not included. Great deal for the size and location!<br><br>\nKitchen, living room and bathroom all decent sized. <br><br>\nMonthly cleaning service included in rent. Utilities not included (cable, heat, hot water and internet almost always under $100 per month per person).<br><br>\nLooking for a female roommate, who is clean, reliable and friendly! No drama or drugs please. Students welcome. <br><br>\nLooking for move in June 1 for 1 year. <br><br>\nSecurity Deposit + month's rent upfront required.    </section>"
+  ], 
+  "duration": 1170, 
+  "email_addr": "7zw3b-6114573910@hous.craigslist.org", 
+  "latitude": "40.762861", 
+  "longitude": "-73.989315", 
+  "map_accuracy": "7", 
+  "post_time": "2017-05-02T18:34:57-0400", 
+  "price": "1050", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114573910", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00p0p_86OEAfoRt1K_600x450.jpg", 
+    "https://images.craigslist.org/00H0H_kRWh1IhZcn0_600x450.jpg"
+  ], 
+  "title": "sunny hell's kitchen room available - $1050", 
+  "type": "", 
+  "update_time": "2017-05-02T18:34:57-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114573910.html"
+}
+About to send email to : lchason@citihabitats.com (https://newyork.craigslist.org/mnh/roo/6114573323.html)!
+About to text : 19178870737 (https://newyork.craigslist.org/mnh/roo/6114573323.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114573323.html\"></div>\n        </div>\nPREFER FEMALE ROOMMATE FOR MY FURNISHED SECOND BEDROOM AT 35ST AND PARK AVE IN MURRAY HILL IN NEW YORK CITY FOR $1400 A MONTH..PLEASE CALL LARRY AT <br><a href=\"/fb/nyc/roo/6114573323\" class=\"showcontact\" title=\"click to show contact info\" rel=\"nofollow\">show contact info</a><br>\nIF INTERESTED    </section>"
+  ], 
+  "duration": 744, 
+  "email_addr": "lchason@citihabitats.com", 
+  "latitude": "40.744300", 
+  "longitude": "-73.978100", 
+  "map_accuracy": "22", 
+  "phone_number": "19178870737", 
+  "post_time": "2017-05-02T18:34:31-0400", 
+  "price": "1400", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114573323", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [], 
+  "title": "female roommate for furnished 2nd br  35st/park ave $1400 june 1", 
+  "type": "", 
+  "update_time": "2017-05-02T18:34:31-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114573323.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114573910.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6114573323.html)!About to send email to : hdhgb-6114601155@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114601155.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114601155.html\"></div>\n        </div>\nHi, one of my roommates is moving out of the city by the end of May so we are looking for a substitute to cover the rest of the lease from 06/01/2017 till 04/30/2018.<br><br>\nAbout the building:<br>\nA luxury high-rise rental buildings conveniently located at the heart of FiDi, with all standard amenities such as in-building laundry and gym, lounge and game room, 24-hour doorman and concierge service. 2/3/4/5/A/C/J/Z/R trains and M15 bus accessible.<br><br>\nAbout the apartment:<br>\nIt is a 2-bedroom converted to 3-bedroom, one bathroom apartment. The room for rent, measured at approximately 11' * 11', is a real bedroom with a large closet, separate HVAC unit, and 2 windows. Room is for one person to occupy only. In case it may raise your concern, the flex room also has up-to-ceiling wall so all of us have full privacy.<br><br>\nAbout us &amp; you:<br>\nWe are 2 young female professionals, in finance and fashion industries respectively. We are both independent individuals who hold very busy work-life schedules, so would rather have the apartment being a quiet place to rest and relax. That being said, we mostly keep to ourselves in our own rooms, respect each other's schedule and space, and keep the communal area clean.<br><br>\nWe are basically looking for someone with similar background and living habits. Here are some of the characters we have, and ideally would hope the same from you:<br>\nYoung professional (female preferred) with 9-5 day time job (or student with valid guarantor), financially stable and able to pay rent on time, easy going and respectful; non-smoker, drug/drama free, light/minimal cook, don't bring parties home nor have frequent over-night guests (sorry if this may sound too specific here, but we aim to find a good match and create the best possible co-living situation for all of us).<br><br>\nUtility &amp; fees:<br>\n~$50 for internet &amp; electricity each person/month. You need to run a background check by the management company while moving in, so minor fee may apply as well. <br><br>\nNo broker fee. One month deposit due by the time committing to take the room, first + last month rent to move in.<br><br>\nHow to proceed:<br>\nIf interested, please shoot me a short message of a brief self-introduction, your availability to see the apartment, and/or any questions you may have. I will be more than happy to answer your questions, and schedule some time to show the apartment once connected.<br><br>\nThanks for looking, and happy apartment-hunting!    </section>"
+  ], 
+  "duration": 1240, 
+  "email_addr": "hdhgb-6114601155@hous.craigslist.org", 
+  "latitude": "40.705579", 
+  "longitude": "-74.008391", 
+  "map_accuracy": "7", 
+  "post_time": "2017-05-02T18:56:29-0400", 
+  "price": "1450", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114601155", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00Y0Y_fRkDlouSFMt_600x450.jpg", 
+    "https://images.craigslist.org/00y0y_a3X8AFGhoIU_600x450.jpg", 
+    "https://images.craigslist.org/00E0E_5BRO8NM3UV9_600x450.jpg", 
+    "https://images.craigslist.org/00J0J_5V1IVKvVljI_600x450.jpg", 
+    "https://images.craigslist.org/00101_5cA2WafWy86_600x450.jpg"
+  ], 
+  "title": "one bedroom in luxury high-rise building fidi jun 1st", 
+  "type": "", 
+  "update_time": "2017-05-02T18:56:29-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114601155.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114601155.html)!About to send email to : prjkn-6114627622@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114627622.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114627622.html\"></div>\n        </div>\nHello! I'm looking for someone to move into my room June 1.<br><br>\nThe room: pretty tiny, but that's the East Village for ya. You can definitely fit a full bed and a desk (duh, see photos), and there's a closet with a shelf. Definitely very manageable.<br><br>\nThe apartment: this is the coolest apartment I've lived in. The room is small, but the kitchen and living room are HUGE and gets arguably too much sunlight (just kidding, it's actually perfect).<br><br>\nRent is pretty cheap at 1,100/mo, utilities (electric + wifi) are split among roommates and range from 30-60/mo (depending on season). The apartment itself is located on the border of the East Village and Alphabet City - so no drunk NYU undergrads shouting outside your window (sorry to any NYU undergrads reading this, you'll understand after you graduate, I promise), and tons of awesome bars and restaurants within a five block radius. Also &lt;15min from most trains - all the trains at Union Sq, R/W at 8th St-NYU, 6 at Astor, L at 1st Ave, F at 2nd Ave. <br><br>\n3 other roommates - one is TBD (other roommate also moving out w/ her significant other June 1 as well), other two are 27/f and work in nonprofits. They're both awesome and I'm gonna miss em.<br><br>\nI've been here for almost three years and I've loved it; I'd probably stay here forever but I'm moving out of New York for grad school :)/:(<br><br>\nE-mail me if ya wanna view it!    </section>"
+  ], 
+  "duration": 1626, 
+  "email_addr": "prjkn-6114627622@hous.craigslist.org", 
+  "latitude": "40.726200", 
+  "longitude": "-73.979600", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-02T19:17:33-0400", 
+  "price": "1100", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114627622", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00o0o_iNyzP6Pi3xK_600x450.jpg", 
+    "https://images.craigslist.org/00A0A_3yg2ibLsVrp_600x450.jpg", 
+    "https://images.craigslist.org/00B0B_2UUzftDtQVa_600x450.jpg", 
+    "https://images.craigslist.org/00g0g_7cW1vvZFqdN_600x450.jpg", 
+    "https://images.craigslist.org/00S0S_ftN2VtsMq9W_600x450.jpg", 
+    "https://images.craigslist.org/00h0h_gI6gJVJFAuD_600x450.jpg", 
+    "https://images.craigslist.org/00M0M_2BcOvcXG8P7_600x450.jpg"
+  ], 
+  "title": "room in massive 4br apt in east village (june 1)", 
+  "type": "", 
+  "update_time": "2017-05-02T19:17:33-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114627622.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114627622.html)!About to send email to : nz22k-6114356302@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114356302.html)!
+{
+  "availability_start": "available jun 2", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114356302.html\"></div>\n        </div>\nContact \n <a href=\"/fb/nyc/roo/6114356302\" class=\"showcontact\" title=\"click to show contact info\" rel=\"nofollow\">show contact info</a>\nfor a showing Today<br><br>\nRooms starting from $1400 / month. Minimum 1 year lease<br><br>\nSteps away from the L train can transfer to N, R, Q, 4, 5, 6, F, M, 1, 2, 3, A, C, E trains.<br><br>\nSeeking Working Professionals and Students for Immediate to September move dates.<br><br>\nProfessional Roommate Matching Services Offered Free of Charge<br><br>\nAll utilities are included in the rent. Heat water gas and electricity. Gym and Concierge Service on site.  Internet and Cable included also included in the rent for your first year.    </section>"
+  ], 
+  "duration": 1122, 
+  "email_addr": "nz22k-6114356302@hous.craigslist.org", 
+  "latitude": "40.730192", 
+  "longitude": "-73.986311", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-02T16:03:53-0400", 
+  "price": "1400", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114356302", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00V0V_gwwvLC0uyT3_600x450.jpg", 
+    "https://images.craigslist.org/01616_bmWqPqmTizg_600x450.jpg", 
+    "https://images.craigslist.org/00A0A_ktncyS5OiyC_600x450.jpg", 
+    "https://images.craigslist.org/01010_qvgA3QYBLK_600x450.jpg"
+  ], 
+  "title": "students and working professionals wanted for asap move date! text me", 
+  "type": "/ 1000ft", 
+  "update_time": "2017-05-02T16:03:53-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114356302.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114356302.html)!About to send email to : qrfbz-6114689726@hous.craigslist.org (https://newyork.craigslist.org/mnh/sub/6114689726.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/sub/6114689726.html\"></div>\n        </div>\nSummer sublet.  Move in around 6/1.  Apartment located on 34th Street &amp; Broadway has a room for rent.  Room comes complete with everything you need - bed, dresser, desk, nightstand.  Room gets lots of sunlight from 2 windows &amp; has air conditioning &amp; wireless internet.  The 2 roommates are 1 male late 20s, full time software developer &amp; 1 female late 20s advertising intern.<br><br>\nBuilding has:<br>\n-24 hour doorman<br>\n-Elevator<br>\n-On top of B,D,F,M,N,R,Q,W trains<br>\n-1 avenue from 1,2,3 trains<br>\n-1 block from banks, restaurants &amp; pretty much the entire world    </section>"
+  ], 
+  "duration": 630, 
+  "email_addr": "qrfbz-6114689726@hous.craigslist.org", 
+  "latitude": "40.749533", 
+  "longitude": "-73.987663", 
+  "map_accuracy": "7", 
+  "post_time": "2017-05-02T20:09:06-0400", 
+  "price": "1400", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/sub/6114689726", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [], 
+  "title": "furnished summer sublet - doorman", 
+  "type": "/ 1br - ", 
+  "update_time": "2017-05-02T20:09:06-0400", 
+  "url": "https://newyork.craigslist.org/mnh/sub/6114689726.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/sub/6114689726.html)!About to send email to : skrh6-6114750822@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114750822.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114750822.html\"></div>\n        </div>\nOne bedroom in five bedroom apartment available for one-year June 1 lease (move in flexible for end of May). Roommates are four female professionals in mid-20s. Great neighborhood, two blocks from the 6 train at 96th street, the Q train at 96th Street, and 10 minute walk from the express 4/5/6 train. Accessible to crosstown buses as well. Near great bars and restaurants, and quick trip downtown for weekend nightlife. Safe neighborhood. <br><br>\nWe've lived in this apartment for a few years and love it! It has one bathroom but two sinks, and hasn't been a problem yet. The living room is huge with tons of natural light. Full kitchen with real adult-sized appliances (and dishwasher). Bedroom is smallest in the apartment, and has no true closet. Tenants in the past have used wardrobes and clothing racks, and lofted the bed for extra space. <br><br>\nRent is approximate with utilities electricity, gas, internet, cable, renters insurance, toiletries, and monthly cleaner. <br><br>\nRoom is unfurnished, some items (dresser, window AC) may be available for sale. <br><br>\nLease ends May 31 2018. Must pass management company's credit and background check. <br><br>\nPlease share social media links and a bit about yourself, and if you'd be available to see the apartment (skype or in person) this week. We are looking to sign the lease ASAP.    </section>"
+  ], 
+  "duration": 891, 
+  "email_addr": "skrh6-6114750822@hous.craigslist.org", 
+  "latitude": "40.781600", 
+  "longitude": "-73.951100", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-02T21:03:15-0400", 
+  "price": "1100", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114750822", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00E0E_3wev10NVpLp_600x450.jpg", 
+    "https://images.craigslist.org/00b0b_jE9nwPZUOMT_600x450.jpg", 
+    "https://images.craigslist.org/00909_84EJx1wkRSk_600x450.jpg", 
+    "https://images.craigslist.org/00r0r_btna4ikgaCQ_600x450.jpg", 
+    "https://images.craigslist.org/00D0D_ayojqQh2V5g_600x450.jpg", 
+    "https://images.craigslist.org/01414_k1SjUPApZNn_600x450.jpg", 
+    "https://images.craigslist.org/01111_iRUSL9uvEJm_600x450.jpg", 
+    "https://images.craigslist.org/00202_k0UgQi6ifhH_600x450.jpg", 
+    "https://images.craigslist.org/00q0q_gVe9S2a0daX_600x450.jpg", 
+    "https://images.craigslist.org/00b0b_ajpNTbuhvls_600x450.jpg", 
+    "https://images.craigslist.org/00k0k_4imnmabLTvn_600x450.jpg"
+  ], 
+  "title": "roommate needed in 5br apt for june 1st lease", 
+  "type": "/ 72ft", 
+  "update_time": "2017-05-02T21:05:16-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114750822.html"
+}
+About to send email to : npdkn-6114742382@hous.craigslist.org (https://newyork.craigslist.org/que/roo/6114742382.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/que/roo/6114742382.html\"></div>\n        </div>\nLooking for a roommate in an Astoria in a first floor, two bedroom apartment on the corner of 26th street and 24th avenue. The rent will be 1200$ plus utilities. Four blocks from the Astoria Blvd. Station, five from Astoria Park and minutes from the city.    </section>"
+  ], 
+  "duration": 1634, 
+  "email_addr": "npdkn-6114742382@hous.craigslist.org", 
+  "latitude": "40.774854", 
+  "longitude": "-73.919029", 
+  "map_accuracy": "10", 
+  "post_time": "2017-05-02T20:55:37-0400", 
+  "price": "1200", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114742382", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/01111_8KgUzRx6O1T_600x450.jpg", 
+    "https://images.craigslist.org/01414_d9a4QDFTO2R_600x450.jpg", 
+    "https://images.craigslist.org/00V0V_8ielOeGiez3_600x450.jpg", 
+    "https://images.craigslist.org/00808_cTwbufWMuqQ_600x450.jpg", 
+    "https://images.craigslist.org/00X0X_bPRA91pUgAB_600x450.jpg"
+  ], 
+  "title": "room available in first floor astoria apartment", 
+  "type": "", 
+  "update_time": "2017-05-02T20:59:34-0400", 
+  "url": "https://newyork.craigslist.org/que/roo/6114742382.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114750822.html)!email sent for (https://newyork.craigslist.org/que/roo/6114742382.html)!About to send email to : njgks-6114800399@hous.craigslist.org (https://newyork.craigslist.org/que/roo/6114800399.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/que/roo/6114800399.html\"></div>\n        </div>\nQuick Description <br>\nFully furnished one bedroom within a two-bedroom apartment available for 2 to 3 months starting June 1st. <br><br>\nCurrent Roommate <br>\n32-year-old business professional male with working hours of 9am - 6pm, therefore at home from 7ish to 8ish Monday - Friday; and predominantly a homebody throughout the weekend.<br><br>\n*Disclaimer* there is a 3 year old 'cool as fuck' cat named Percy Mittens; he doesn't bother anyone, just sleeps. The current roommate will take care of everything involving Percy, and Percy is well trained. <br><br>\nApartment Description <br>\nThe apartment itself is quaint and cozy, located on the 2nd floor of a two story building. In between avenues. Within the apartment are two bedrooms, a kitchen, entry closet and a bathroom; there is not a living room. There is a private parking lot available in the back, however it's at an additional monthly price that I would have to further look into up on request. Basement available for storage. <br><br>\nRoom Description<br>\nThe room up for rent is a 14X14 room with 9-foot high ceilings that offers a window with great natural light (faces southwest) and a closet that is 3 \u00bd by 2 \u00bd feet and 9 ft high. <br><br>\nThe apartment will come furnished, but we'll consider storing furniture for a one time fee of $250. Below is a list of the furniture that would come with the room:<br><br>\n\u2022\tFull Bed (54WX80L) with elevated frame (storage underneath available)<br>\n\u2022\t 9 Drawer Dresser<br>\n\u2022\t3 Lamps (one night stand lamp &amp; two 6 ft lamps)<br>\n\u2022\t44 inch SONY TV<br>\n\u2022\t3 level book stand / night stand<br>\n\u2022\tTons of hangers <br>\n\u2022\t7 ft high and 3 ft wide armoire (hanging rack and two drawers at bottom)<br>\n\u2022\t3 ft wide and 2 ft high bench that allows storage<br>\n\u2022\tPortable AC is available if needed, or portable fan<br>\n\u2022\tOptional items are Nespresso Machine, Record Player and Printer/Desk<br><br>\nTrains<br>\nLocated in Long Island City just a couple blocks from multiple train stations, in which you can be in Manhattan in less than 8 minutes via taxi or train.<br>\n\u2022\t2 \u00bd blocks from F Train - 21st Street Station <br>\n\u2022\t2 \u00bd blocks from W, N  &amp; 7 trains at Queensboro Plaza<br>\n\u2022\t2 \u00bd blocks from E &amp; M trains at Queens Plaza<br>\n\u2022\t6 blocks from G Train at Court Square<br><br>\nBills<br>\n\u2022\tRCN Cable; Showtime, ESPN, etc.<br>\n\u2022\tInternet<br>\n\u2022\tConEd (Gas/Electric) <br><br>\nIdeal Roommate<br>\n\u2022\tNo smoking<br>\n\u2022\tMust have a corporate work structure (M-F/9-5)<br>\n\u2022\tNot allergic to cats<br>\n\u2022\tLimited guests, 1 max; apartment is not built for too many visitors<br>\n\u2022\tCommitment to halfsies with paper towels, toilet paper, etc. <br><br>\nFinancial<br>\n\u2022\t$1,250 each month, which includes rent and bills. <br>\n*      First months rent and one months security deposit by move-in date<br><br><br>\nTour Availability<br>\n\u2022\tMonday - Friday during 7am - 9am and 5pm - 9pm<br>\n\u2022\tSaturday &amp; Sunday during 10am - 7pm<br><br></section>"
+  ], 
+  "duration": 1102, 
+  "email_addr": "njgks-6114800399@hous.craigslist.org", 
+  "latitude": "40.744600", 
+  "longitude": "-73.934500", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-02T21:49:37-0400", 
+  "price": "1250", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114800399", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00H0H_80ioASoImcK_600x450.jpg", 
+    "https://images.craigslist.org/01111_jhDs8rFWMJ1_600x450.jpg", 
+    "https://images.craigslist.org/00808_iynz9FCDi5s_600x450.jpg", 
+    "https://images.craigslist.org/00k0k_j0VqKRosMMZ_600x450.jpg", 
+    "https://images.craigslist.org/00W0W_h6bR9sGA68c_600x450.jpg", 
+    "https://images.craigslist.org/00s0s_iDB1n8JbvwW_600x450.jpg", 
+    "https://images.craigslist.org/00Y0Y_4bbL6RLalPP_600x450.jpg"
+  ], 
+  "title": "one bedroom for rent - long island city - 2 blocks from 6 train lines", 
+  "type": "/ 200ft", 
+  "update_time": "2017-05-02T21:51:40-0400", 
+  "url": "https://newyork.craigslist.org/que/roo/6114800399.html"
+}
+About to send email to : fpknp-6114786687@hous.craigslist.org (https://newyork.craigslist.org/que/roo/6114786687.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/que/roo/6114786687.html\"></div>\n        </div>\nHey there, My roommate is moving out of this month. The apartment is on the corner of 31 Ave and 32nd street. It can't be more of a perfect location! It's a pretty quiet residential block but at the same time, it's located right between 30 ave and Broadway ave where there are tons of busy bars, restaurants, supermarkets, farmer markets, convenient stores, Rate Aid, liquor stores, discount stores... you name it. The laundry is right across the street with 24 hrs bodega. It's a 3 bedroom, 1 living room, 1 bathroom apt. The room you're living in is Non-furnish but the my roommate is offering to sell some of her stuff if you're interested (if you want some furniture) 150 ft2. You will share room with 2 young professional, 2 guys, in their mid 20s, very laid back.<br><br>\nYou: We're looking for a chill, respectful, non smoker, young professional roommate with regular work schedule. Guys or girls welcome! No couple, No pet-ish (always contained pet is fine). The rent is about $950 ish(utility split 3 ways, usually $30-$40 per month). We prefer long term roommate but you probably don't need to sign the lease with our landlord. If you're interested in the room, please tell us a little about yourself and maybe we can arrange the time.    </section>"
+  ], 
+  "duration": 1260, 
+  "email_addr": "fpknp-6114786687@hous.craigslist.org", 
+  "latitude": "40.763869", 
+  "longitude": "-73.922742", 
+  "map_accuracy": "10", 
+  "post_time": "2017-05-02T21:36:27-0400", 
+  "price": "950", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114786687", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00303_evVW3AzPyaP_600x450.jpg", 
+    "https://images.craigslist.org/01313_gvFbm7pj5Qo_600x450.jpg", 
+    "https://images.craigslist.org/00J0J_48HJI8a3HVl_600x450.jpg"
+  ], 
+  "title": "roommate wanted by june 1", 
+  "type": "/ 150ft", 
+  "update_time": "2017-05-02T21:39:35-0400", 
+  "url": "https://newyork.craigslist.org/que/roo/6114786687.html"
+}
+email sent for (https://newyork.craigslist.org/que/roo/6114800399.html)!email sent for (https://newyork.craigslist.org/que/roo/6114786687.html)!About to send email to : 2nfxw-6114861341@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114861341.html)!
+{
+  "availability_start": "available jun 2", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114861341.html\"></div>\n        </div>\nSunny UES apartment with two friendly 30 y/o roommates <br><br>\n3 bedroom / 1 bath clean and open apartment with sunny and spacious living and dining room. Two blocks from the 6 and two blocks from gorgeous part of Central Park, Museum Mile, and near lots of cafes, restaurants, and shops. Lots of storage, sizable kitchen and fully furnished common areas. Room fits full size bed, small dresser and nightstand. Kitchen appliances recently replaced, bathroom recently updated and apartment recently painted. <br><br>\nAbout us: friendly professionals who work traditional office hours and spend time together in the common space when we're both home. We both travel occasionally for work. One loves to run and cook. One loves yoga and reading. <br><br>\nAbout you: positive and easy going, happy to pitch in with cleaning, non smoker and no pets. Seeking apartment at least through December when lease is up for renewal. <br><br>\nTell us about you: your interests, line of work (LinkedIn profile please!), and the best thing that happened to you this past week. <br><br>\nWe'll be showing the room on Saturday from 10-2 so please let us know if that works for you. Asking for first month, last month, and deposit upfront.    </section>"
+  ], 
+  "duration": 659, 
+  "email_addr": "2nfxw-6114861341@hous.craigslist.org", 
+  "latitude": "40.785871", 
+  "longitude": "-73.952751", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-02T22:52:18-0400", 
+  "price": "1100", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114861341", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00404_jk9qSEO8buf_600x450.jpg", 
+    "https://images.craigslist.org/00i0i_fwpppTjz7CY_600x450.jpg", 
+    "https://images.craigslist.org/00303_dqBYIVnbXG_600x450.jpg", 
+    "https://images.craigslist.org/00505_5l0BgfzQyFB_600x450.jpg", 
+    "https://images.craigslist.org/00K0K_altOOLJJUgB_600x450.jpg", 
+    "https://images.craigslist.org/00u0u_iSbDVMXusH8_600x450.jpg", 
+    "https://images.craigslist.org/00Q0Q_bNZiVW3Jj79_600x450.jpg"
+  ], 
+  "title": "sunny ues apartment minutes from central park", 
+  "type": "", 
+  "update_time": "2017-05-02T22:52:18-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114861341.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114861341.html)!About to send email to : 5vr5k-6114865221@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114865221.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114865221.html\"></div>\n        </div>\nOur roommate is moving out of our three bedroom apartment to attend grad school. We love the apartment so we are looking for a new roommate to resign the lease with. The room will be available on June 1st; the lease would be for 1 year with the option to extend.<br><br>\nThe building:<br>\n-Located in Murray Hill/Kips Bay on 30th Street, corner unit<br>\n-24 hour Doorman/elevator building/live in super<br>\n-Laundry room in basement<br><br>\nThe apartment:<br>\n-3 bedrooms/1 bath<br>\n-Huge living area; fits a sectional couch, brownie points if you own a TV since ours recently broke :(<br>\n-Large furnished kitchen with a dishwasher<br><br>\nThe Room<br>\n-Large master bedroom (can easily fit a queen bed, couch, dresser, &amp; desk); 2 closets<br><br>\nAbout us:<br>\n-2 professional females, both in our early 30's, work in finance, AND we met on Craigslist a few years ago!<br>\n-We tend to work late, but when we are home we love relaxing on the couch &amp; watching TV<br>\n-One of the roommates fosters dogs about once every 3 months (usually for 2 weeks) so please be dog friendly. You have no responsibilities to help with the dog unless you want to be involved<br>\n-we promise we're more fun than this ad makes us out to be....<br><br>\nAbout you:<br>\n-Female in her early 30's or late 20's<br>\n-Clean, social/friendly, easy going, and considerate<br>\n-We don't mind guests every now and then, but not looking for someone who will \"bring the party home\"<br>\n-Interested in spending time with us on the couch mentioned above<br><br>\nThe Money:<br>\n-Rent: $1,425 + $1,425 for security deposit (rent might increase by ~$50)<br>\n-Our landlord will require proof of employment<br>\n-We all split cable &amp; electricity (about $60 each per month)<br>\n-We have a cleaning lady once every 6 weeks (~$40)<br><br>\nIf you're interested, please send us a note and include some things about yourself including your age, what you do, and anything else you'd like to mention. Social media links would be great!    </section>"
+  ], 
+  "duration": 744, 
+  "email_addr": "5vr5k-6114865221@hous.craigslist.org", 
+  "latitude": "40.744300", 
+  "longitude": "-73.978100", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-02T22:56:46-0400", 
+  "price": "1425", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114865221", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00T0T_jCvz8l2nLBG_600x450.jpg", 
+    "https://images.craigslist.org/00y0y_lzQPI4KouQE_600x450.jpg", 
+    "https://images.craigslist.org/00R0R_3HR2bY8rtqo_600x450.jpg"
+  ], 
+  "title": "one bedroom open in a 3 bedroom apartment in murray hill/kips area", 
+  "type": "", 
+  "update_time": "2017-05-02T22:56:46-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114865221.html"
+}
+About to send email to : nxm5d-6114865724@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114865724.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114865724.html\"></div>\n        </div>\n38 Year Old working Female in Art Insurance seeks roommate for this special rent stabilized deal in Hudson Yards.  I prefer my home time to be peaceful so am looking for someone who is independent and also quiet.  Please be prepared to show good credit and pay stubs when you come to see the room.  1st month's rent and a deposit will be required to get the room. Also, when you email please tell me a bit about yourself, what you do, etc.  BEST OF LUCK!<br><br>\nFeatures include:<br><br>\n-Doorman Building<br>\n-Laundry in the building<br>\n-Elevator<br>\n-Next to Highline, Pennsy, Chelsea Gallery District<br>\n-Convenient to Penn Station<br>\n-Close to 7 and ACE Trains<br>\n-Great view of midtown<br>\n-Spacious closet with additional closet space available<br>\n-Kitchen fully furnished<br><br>\nUtilitites are not included.<br>\nRoom is unfurnished although current roommate is willing to sell his furniture.<br></section>"
+  ], 
+  "duration": 1284, 
+  "email_addr": "nxm5d-6114865724@hous.craigslist.org", 
+  "latitude": "40.754144", 
+  "longitude": "-73.998106", 
+  "map_accuracy": "10", 
+  "post_time": "2017-05-02T22:57:21-0400", 
+  "price": "1267", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114865724", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00Q0Q_jWyaL7ZETbO_600x450.jpg", 
+    "https://images.craigslist.org/00J0J_kECfzNP3yR_600x450.jpg", 
+    "https://images.craigslist.org/00G0G_9Ujtp1j93DA_600x450.jpg", 
+    "https://images.craigslist.org/01313_lNsBHh1rA5l_600x450.jpg", 
+    "https://images.craigslist.org/00d0d_iw13CzDgKeP_600x450.jpg", 
+    "https://images.craigslist.org/00D0D_3unpjetVhUo_600x450.jpg", 
+    "https://images.craigslist.org/00y0y_cf9Ih2BTiH6_600x450.jpg", 
+    "https://images.craigslist.org/00o0o_jEmxyPQN4Vt_600x450.jpg"
+  ], 
+  "title": "private room in hudson yards available june 1 $1267.82", 
+  "type": "", 
+  "update_time": "2017-05-02T23:00:29-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114865724.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114865221.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6114865724.html)!About to send email to : 35qhp-6114947829@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114947829.html)!
+About to text : 19178308807 (https://newyork.craigslist.org/mnh/roo/6114947829.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114947829.html\"></div>\n        </div>\nRent is $1395 Utilities are $50 (Internet+electric+hot water/heat)<br>\nAvailable on 06/01/2017<br>\nLong term preferred<br><br>\nThree bedroom unit on second floor in a walk up building.<br>\nLaundry place on the first floor.<br>\nLocated near Everything (subway, Starbucks, store.....etc)<br>\nLocated on 5th street and Between 1st and 2nd ave near Police station (very safe). <br>\nSubway is located within 5 min walking distance. (F, N, R, 6)<br><br>\nFully Furnished Private Room<br>\nBathroom and kitchen will be shared with two young female roommates. (Professionally cleaned every month)<br>\nWindows with light<br><br>\nLooking for <br>\n- Female <br>\n- A clean person in many respects, particularly keeping the common areas clean and tidy<br>\n- Respectful, quiet, honest and easy going<br>\n- No smoking, no pets, no party and absolutely no drugs    </section>"
+  ], 
+  "duration": 1309, 
+  "email_addr": "35qhp-6114947829@hous.craigslist.org", 
+  "latitude": "40.726039", 
+  "longitude": "-73.987277", 
+  "map_accuracy": "7", 
+  "phone_number": "19178308807", 
+  "post_time": "2017-05-03T00:50:33-0400", 
+  "price": "1395", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114947829", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00p0p_l9QAuQHYBga_600x450.jpg", 
+    "https://images.craigslist.org/00101_cqrywzhkZKz_600x450.jpg", 
+    "https://images.craigslist.org/00v0v_a2mUWnDQodz_600x450.jpg", 
+    "https://images.craigslist.org/00y0y_3lLyz1YFyWi_600x450.jpg", 
+    "https://images.craigslist.org/00404_h4nx0ZWJyKk_600x450.jpg"
+  ], 
+  "title": "&#9733;&#9733;&#9733;east village 5th street fully furnished room great location", 
+  "type": "", 
+  "update_time": "2017-05-03T00:50:33-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114947829.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114947829.html)!About to send email to : 4djpr-6114944839@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6114944839.html)!
+About to text : 19178308807 (https://newyork.craigslist.org/mnh/roo/6114944839.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6114944839.html\"></div>\n        </div>\nRent is $1395 Utilities are $50 (Internet+electric+hot water/heat)<br>\nAvailable on 06/01/2017<br>\nLong term preferred<br><br>\nThree bedroom unit on second floor in a walk up building.<br>\nLaundry place on the first floor.<br>\nLocated near Everything (subway, Starbucks, store.....etc)<br>\nLocated on 5th street and Between 1st and 2nd ave near Police station (very safe). <br>\nSubway is located within 5 min walking distance. (F, N, R, 6)<br><br>\nFully Furnished Private Room<br>\nBathroom and kitchen will be shared with two young female roommates. (Professionally cleaned every month)<br>\nWindows with light<br><br>\nLooking for <br>\n- Female <br>\n- A clean person in many respects, particularly keeping the common areas clean and tidy<br>\n- Respectful, quiet, honest and easy going<br>\n- No smoking, no pets, no party and absolutely no drugs    </section>"
+  ], 
+  "duration": 1242, 
+  "email_addr": "4djpr-6114944839@hous.craigslist.org", 
+  "latitude": "40.726218", 
+  "longitude": "-73.987191", 
+  "map_accuracy": "7", 
+  "phone_number": "19178308807", 
+  "post_time": "2017-05-03T00:45:23-0400", 
+  "price": "1395", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6114944839", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00p0p_l9QAuQHYBga_600x450.jpg", 
+    "https://images.craigslist.org/00101_cqrywzhkZKz_600x450.jpg", 
+    "https://images.craigslist.org/00v0v_a2mUWnDQodz_600x450.jpg", 
+    "https://images.craigslist.org/00y0y_3lLyz1YFyWi_600x450.jpg", 
+    "https://images.craigslist.org/00404_h4nx0ZWJyKk_600x450.jpg"
+  ], 
+  "title": "&#10148;&#10148;&#10148;east village 5th street fully furnished room great locat", 
+  "type": "", 
+  "update_time": "2017-05-03T00:45:23-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6114944839.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6114944839.html)!About to send email to : hk38g-6115145806@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6115145806.html)!
+About to text : 19178308807 (https://newyork.craigslist.org/mnh/roo/6115145806.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6115145806.html\"></div>\n        </div>\nRent is $1395 Utilities are $50 (Internet+electric+hot water/heat)<br>\nAvailable on 06/01/2017<br>\nLong term preferred<br><br>\nThree bedroom unit on second floor in a walk up building.<br>\nLaundry place on the first floor.<br>\nLocated near Everything (subway, Starbucks, store.....etc)<br>\nLocated on 5th street and Between 1st and 2nd ave near Police station (very safe). <br>\nSubway is located within 5 min walking distance. (F, N, R, 6)<br><br>\nFully Furnished Private Room<br>\nBathroom and kitchen will be shared with two young female roommates. (Professionally cleaned every month)<br>\nWindows with light<br><br>\nLooking for <br>\n- Female <br>\n- A clean person in many respects, particularly keeping the common areas clean and tidy<br>\n- Respectful, quiet, honest and easy going<br>\n- No smoking, no pets, no party and absolutely no drugs    </section>"
+  ], 
+  "duration": 1308, 
+  "email_addr": "hk38g-6115145806@hous.craigslist.org", 
+  "latitude": "40.726234", 
+  "longitude": "-73.987083", 
+  "map_accuracy": "7", 
+  "phone_number": "19178308807", 
+  "post_time": "2017-05-03T08:57:22-0400", 
+  "price": "1395", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115145806", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00p0p_l9QAuQHYBga_600x450.jpg", 
+    "https://images.craigslist.org/00101_cqrywzhkZKz_600x450.jpg", 
+    "https://images.craigslist.org/00v0v_a2mUWnDQodz_600x450.jpg", 
+    "https://images.craigslist.org/00y0y_3lLyz1YFyWi_600x450.jpg", 
+    "https://images.craigslist.org/00404_h4nx0ZWJyKk_600x450.jpg"
+  ], 
+  "title": "&#10148;&#10148;&#10148;east village 5th street fully furnished room great locat", 
+  "type": "", 
+  "update_time": "2017-05-03T08:57:22-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6115145806.html"
+}
+About to send email to : s53p2-6115148127@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6115148127.html)!
+About to text : 19178308807 (https://newyork.craigslist.org/mnh/roo/6115148127.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6115148127.html\"></div>\n        </div>\nRent is $1395 Utilities are $50 (Internet+electric+hot water/heat)<br>\nAvailable on 06/01/2017<br>\nLong term preferred<br><br>\nThree bedroom unit on second floor in a walk up building.<br>\nLaundry place on the first floor.<br>\nLocated near Everything (subway, Starbucks, store.....etc)<br>\nLocated on 5th street and Between 1st and 2nd ave near Police station (very safe). <br>\nSubway is located within 5 min walking distance. (F, N, R, 6)<br><br>\nFully Furnished Private Room<br>\nBathroom and kitchen will be shared with two young female roommates. (Professionally cleaned every month)<br>\nWindows with light<br><br>\nLooking for <br>\n- Female <br>\n- A clean person in many respects, particularly keeping the common areas clean and tidy<br>\n- Respectful, quiet, honest and easy going<br>\n- No smoking, no pets, no party and absolutely no drugs    </section>"
+  ], 
+  "duration": 1302, 
+  "email_addr": "s53p2-6115148127@hous.craigslist.org", 
+  "latitude": "40.726088", 
+  "longitude": "-73.987298", 
+  "map_accuracy": "7", 
+  "phone_number": "19178308807", 
+  "post_time": "2017-05-03T08:59:31-0400", 
+  "price": "1395", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115148127", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00p0p_l9QAuQHYBga_600x450.jpg", 
+    "https://images.craigslist.org/00101_cqrywzhkZKz_600x450.jpg", 
+    "https://images.craigslist.org/00v0v_a2mUWnDQodz_600x450.jpg", 
+    "https://images.craigslist.org/00y0y_3lLyz1YFyWi_600x450.jpg", 
+    "https://images.craigslist.org/00404_h4nx0ZWJyKk_600x450.jpg"
+  ], 
+  "title": "&#9733;&#9733;&#9733;east village 5th street fully furnished room great location", 
+  "type": "", 
+  "update_time": "2017-05-03T08:59:31-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6115148127.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6115145806.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6115148127.html)!About to send email to : vsxcx-6115179643@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6115179643.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6115179643.html\"></div>\n        </div>\nJUNE 1ST MOVE IN<br><br>\nSecurity deposit ($1,450) and first month's rent ($1,450) = $2,900 gets you in!<br>\nAt least three month stay required, after that it can be month to month or long term.<br><br>\nCompletely furnished room and apartment with everything you need to feel at home.<br>\nAverage Monthly Utilities: $50<br><br>\nAbout the Building:<br>\nIt is rare that a room or apartment in this location ever becomes available because we are located on the same block as one of the only trains that run to the East Village!<br><br>\nThe building is newly renovated, modern, gorgeous, safe and well maintained walk up on 13th and 1st ave. Live in Super with video-buzzer security and we are on the 4th floor. <br><br>\nThe street is quiet and tree lined, walking distance from all the best coffee shops, restaurants, lounges, speakeasy's and boutiques.<br><br>\nAcross the street:<br>\nThe L train stop!<br>\n3 Citi Bike Stations within 2 block radius<br>\n24-hour CVS &amp; Duane Reade<br>\n24-hour fully stocked bodega<br>\nStarbucks &amp; Dunkin Donuts across the street<br>\nSeveral cheap laundry/dry-clean places with free pick-up and delivery<br>\nWine &amp; Liquor store<br>\nSupermarket 1 block away<br>\nNail Salon open late<br>\nBus stop for the cross-town bus and the bus that runs north on 1st ave<br><br>\n8 minute walk to:<br>\nTrader Joe's supermarket and Wine shop<br>\nUnion Square for the 4,5,6,N,Q,R trains and tons of shopping/gyms/workout classes<br>\nKmart at Astor Place<br><br>\nAbout the Room:<br>\nTwo windows that face the courtyard = no noise!<br>\nSeparate from the other two bedrooms = ultimate privacy<br>\nFurnished with a full-size bed with bed-raisers for tons of storage space underneath<br>\nA six drawer dresser<br>\nCloset with hangers<br>\nFull size mirror<br>\nLarge enough to fit another dresser<br>\nBig enough to fit a desk as well as the furniture above<br>\nWindow air conditioning unit for the summer<br>\nRadiator in room for warmth in the winter<br><br>\nAbout the Apt:<br>\nLiving room - nice furniture &amp; freshly painted<br>\nBrand new bathroom!! (tile and vanity) full tub and shower-- shelf space for your things<br>\nBrand new kitchen with black granite, spacey fridge and a dishwasher!<br>\nNew gas stove, oven, &amp; microwave<br>\nDeep stainless-steel sink with pull-out faucet<br>\nKitchen fully stocked with dishes, spices and various tools for cooking<br>\nPolished wood floors and matching door trim<br>\nVERY CLEAN!<br><br>\nAbout Us:<br>\nI am a 26 year old young professional female who works in ad-tech, is laid back, friendly, clean and rarely home. The other roommate is a 28 year old male working in events who is generous, great energy, and super easy going!<br><br>\nWe will be showing this apartment after 7pm this week so please e-mail with any questions and to set up a time. We will be giving the room to whoever has the money and is the best fit. First come first serve!    </section>"
+  ], 
+  "duration": 1190, 
+  "email_addr": "vsxcx-6115179643@hous.craigslist.org", 
+  "latitude": "40.730507", 
+  "longitude": "-73.982715", 
+  "map_accuracy": "10", 
+  "post_time": "2017-05-03T09:25:21-0400", 
+  "price": "1450", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115179643", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/01313_6SVW38P4ndQ_600x450.jpg", 
+    "https://images.craigslist.org/00C0C_a6bZSWMBS7l_600x450.jpg", 
+    "https://images.craigslist.org/00I0I_inStBzldEeh_600x450.jpg", 
+    "https://images.craigslist.org/00F0F_6QMICAfAjUo_600x450.jpg", 
+    "https://images.craigslist.org/00O0O_70g6t5XwRb3_600x450.jpg", 
+    "https://images.craigslist.org/01515_1ag5TMPg2ec_600x450.jpg", 
+    "https://images.craigslist.org/00101_8ffavaqzIYK_600x450.jpg", 
+    "https://images.craigslist.org/00303_jt4aFIN9Zk4_600x450.jpg"
+  ], 
+  "title": "lrge frnshed bdrm at cornr of l train! just renovated", 
+  "type": "", 
+  "update_time": "2017-05-03T09:25:21-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6115179643.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6115179643.html)!About to send email to : 6kxft-6115262100@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6115262100.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6115262100.html\"></div>\n        </div>\nMay to September move dates for a 1 year lease<br><br>\nThe Deal:<br>\nHuge 2 &amp; 3 Unfurnished bedrooms recently renovated apartments.<br>\nAll utilities Included (Water, Gas, Electricity, and Heat) <br>\nElevator, Laundry, Gym, Concierge service. <br><br>\nChoose the room that fits your budget:<br>\nMaster Bedroom (15'X12') starting at $1600 per month<br>\nSecond bedroom (14'X10') starting at $1500 per month<br>\nThird Bedroom (12X10') starting at $1400 per month<br><br>\nThe Location is Ideal for:<br><br>\nWorking professionals, Students. Beth Israel, NYU, SVA, Baruch, and UN Workers and Diplomats. Everyone will be screened for criminal background and credit check.<br><br>\nSteps away from the L train can transfer to N, R, Q, 4, 5, 6, F, M, 1, 2, 3, A, C, E trains. Close to restaurants, Entertainment, shopping.    </section>"
+  ], 
+  "duration": 798, 
+  "email_addr": "6kxft-6115262100@hous.craigslist.org", 
+  "latitude": "40.731300", 
+  "longitude": "-73.989200", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-03T10:21:05-0400", 
+  "price": "1400", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115262100", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00b0b_7UQfsOuRZEd_600x450.jpg", 
+    "https://images.craigslist.org/01212_51jwN7nMZeF_600x450.jpg", 
+    "https://images.craigslist.org/00p0p_dXZrtNfxH1s_600x450.jpg", 
+    "https://images.craigslist.org/00c0c_lUSGzDt7qSf_600x450.jpg", 
+    "https://images.craigslist.org/01717_aCj2TWeZ29W_600x450.jpg"
+  ], 
+  "title": "&#10022;roommates wanted ^ working professionals and students", 
+  "type": "/ 1000ft", 
+  "update_time": "2017-05-03T10:21:05-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6115262100.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6115262100.html)!About to send email to : w3ftc-6115261066@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6115261066.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6115261066.html\"></div>\n        </div>\nHi, one of my roommates is moving out of the city by the end of May so we are looking for a substitute to cover the rest of the lease from 06/01/2017 till 04/30/2018.<br><br>\n About the building:<br>\n A luxury high-rise rental buildings conveniently located at the heart of FiDi, with all standard amenities such as in-building laundry and gym, lounge and game room, 24-hour doorman and concierge service. 2/3/4/5/A/C/J/Z/R trains and M15 bus accessible.<br><br>\n About the apartment:<br>\n It is a 2-bedroom converted to 3-bedroom, one bathroom apartment. The room for rent, measured at approximately 11' * 11', is a real bedroom with a large closet, separate HVAC unit, and 2 windows. Room is for one person to occupy only. In case it may raise your concern, the flex room also has up-to-ceiling wall so all of us have full privacy.<br><br>\n About us &amp; you:<br>\n We are 2 young female professionals, in finance and fashion industries respectively. We are both independent individuals who hold very busy work-life schedules, so would rather have the apartment being a quiet place to rest and relax. That being said, we mostly keep to ourselves in our own rooms, respect each other's schedule and space, and keep the communal area clean.<br><br>\n We are basically looking for someone with similar background and living habits. Here are some of the characters we have, and ideally would hope the same from you:<br>\n Young professional (female preferred) with 9-5 day time job (or student with valid guarantor), financially stable and able to pay rent on time, easy going and respectful; non-smoker, drug/drama free, light/minimal cook, don't bring parties home nor have frequent over-night guests (sorry if this may sound too specific here, but we aim to find a good match and create the best possible co-living situation for all of us).<br><br>\n Utility &amp; fees:<br>\n ~$50 for internet &amp; electricity each person/month. You need to run a background check by the management company while moving in, so minor fee may apply as well. <br><br>\n No broker fee. One month deposit due by the time committing to take the room, first + last month rent to move in.<br><br>\n How to proceed:<br>\n If interested, please shoot me a short message of a brief self-introduction, your availability to see the apartment, and/or any questions you may have. I will be more than happy to answer your questions, and schedule some time to show the apartment once connected.<br><br>\n Thanks for looking, and happy apartment-hunting!    </section>"
+  ], 
+  "duration": 1238, 
+  "email_addr": "w3ftc-6115261066@hous.craigslist.org", 
+  "latitude": "40.705612", 
+  "longitude": "-74.008391", 
+  "map_accuracy": "7", 
+  "post_time": "2017-05-03T10:20:27-0400", 
+  "price": "1450", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115261066", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00i0i_4EIh5E9exFl_600x450.jpg", 
+    "https://images.craigslist.org/00M0M_gJqpwCVuWHI_600x450.jpg", 
+    "https://images.craigslist.org/00r0r_91bl9uiihZj_600x450.jpg", 
+    "https://images.craigslist.org/00e0e_kYRNpAtnFew_600x450.jpg", 
+    "https://images.craigslist.org/00303_f5lfazdFsgt_600x450.jpg"
+  ], 
+  "title": "one bedroom in luxury high-rise building fidi jun 1st", 
+  "type": "", 
+  "update_time": "2017-05-03T10:20:27-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6115261066.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6115261066.html)!About to send email to : lchason@citihabitats.com (https://newyork.craigslist.org/mnh/roo/6115473184.html)!
+About to text : 19178870737 (https://newyork.craigslist.org/mnh/roo/6115473184.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6115473184.html\"></div>\n        </div>\nPREFER FEMALE ROOMMATE FOR MY FURNISHED SECOND BEDROOM AT 35ST AND PARK AVE IN MURRAY HILL IN NEW YORK CITY FOR $1400 A MONTH.IF INTERESTED CALL LARRY AT <br><a href=\"/fb/nyc/roo/6115473184\" class=\"showcontact\" title=\"click to show contact info\" rel=\"nofollow\">show contact info</a><br></section>"
+  ], 
+  "duration": 864, 
+  "email_addr": "lchason@citihabitats.com", 
+  "latitude": "40.744300", 
+  "longitude": "-73.978100", 
+  "map_accuracy": "22", 
+  "phone_number": "19178870737", 
+  "post_time": "2017-05-03T12:23:52-0400", 
+  "price": "1400", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115473184", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [], 
+  "title": "female rmmte for furnished 2nd bedroom 35st/park ave nyc $1400 6/1", 
+  "type": "", 
+  "update_time": "2017-05-03T12:23:52-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6115473184.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6115473184.html)!About to text : 19173798484 (https://newyork.craigslist.org/mnh/roo/6115504317.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6115504317.html\"></div>\n        </div>\nI'm looking for someone to sublet my large (9ft. x 14 ft.) UNFURNISHED bedroom in a Murray Hill/Midtown East, 24hr. doorman, elevator building.<br>\nAvailable June 1st., Share with middle aged female. <br>\nBedroom includes a full wall/door with solid concrete walls w/air conditioner. Large, south window. Large closet.  <br>\nShare kitchen, bathroom w/me. Building has laundry in the basement, Smoking okay.<br>\nSafe neighborhood, walking distance from Gramercy, East Village, Flatiron, and Chelsea. 5-minute walk to Trader Joe's. <br><br>\n$1,000. monthly (Utilities included). References and deposit required.  <br>\nCall \n <a href=\"/fb/nyc/roo/6115504317\" class=\"showcontact\" title=\"click to show contact info\" rel=\"nofollow\">show contact info</a>\n<br></section>"
+  ], 
+  "duration": 864, 
+  "latitude": "40.744300", 
+  "longitude": "-73.978100", 
+  "map_accuracy": "22", 
+  "phone_number": "19173798484", 
+  "post_time": "2017-05-03T12:41:18-0400", 
+  "price": "1000", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115504317", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [], 
+  "title": "apartment to share/midtown east", 
+  "type": "/ 126ft", 
+  "update_time": "2017-05-03T12:41:18-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6115504317.html"
+}
+About to send email to : jzzbk-6115487665@hous.craigslist.org (https://newyork.craigslist.org/mnh/sub/6115487665.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/sub/6115487665.html\"></div>\n        </div>\nI will be working away from NYC for most of this year. Therefore, I am looking to sublet my wonderful studio apt for 6 month; with potential for longer. <br><br>\nThe unit is in a secure building with elevators. The unit is located on the top floor. Electric and internet will be included in the rent price. I have an window AC installed; and the building is heated by the building. <br><br>\nPlease contact for further information.    </section>"
+  ], 
+  "duration": 1190, 
+  "email_addr": "jzzbk-6115487665@hous.craigslist.org", 
+  "latitude": "40.759700", 
+  "longitude": "-73.991800", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-03T12:31:51-0400", 
+  "price": "1250", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/sub/6115487665", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00404_7NEzC4jOKXi_600x450.jpg", 
+    "https://images.craigslist.org/00101_fhDxtvEXGy3_600x450.jpg", 
+    "https://images.craigslist.org/00k0k_k71xjYH5tUq_600x450.jpg", 
+    "https://images.craigslist.org/00707_cDV3Tuh3Lyh_600x450.jpg", 
+    "https://images.craigslist.org/00909_fS0DARIv0c5_600x450.jpg", 
+    "https://images.craigslist.org/00m0m_lq5VAmXPdE9_600x450.jpg", 
+    "https://images.craigslist.org/00X0X_7qjot4c7HBO_600x450.jpg", 
+    "https://images.craigslist.org/00B0B_iV9hYuuXqL7_600x450.jpg", 
+    "https://images.craigslist.org/00d0d_2AHfo8vebY2_600x450.jpg", 
+    "https://images.craigslist.org/01616_8Lnz1k35OkA_600x450.jpg", 
+    "https://images.craigslist.org/00X0X_epZ65VU15Oy_600x450.jpg", 
+    "https://images.craigslist.org/00y0y_abAWvjRhM43_600x450.jpg", 
+    "https://images.craigslist.org/00M0M_134yyhV9rDS_600x450.jpg", 
+    "https://images.craigslist.org/00r0r_dSyjrWoYAHA_600x450.jpg", 
+    "https://images.craigslist.org/00I0I_hmf59DVyLrJ_600x450.jpg", 
+    "https://images.craigslist.org/01616_9FAdbUA7XBf_600x450.jpg"
+  ], 
+  "title": "top floor studio; corner of hell's kitchen & time square nyc", 
+  "type": "/ 100ft", 
+  "update_time": "2017-05-03T12:31:51-0400", 
+  "url": "https://newyork.craigslist.org/mnh/sub/6115487665.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/sub/6115487665.html)!About to send email to : hwbjh-6115543226@hous.craigslist.org (https://newyork.craigslist.org/brk/roo/6115543226.html)!
+About to text : 16786422179 (https://newyork.craigslist.org/brk/roo/6115543226.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/brk/roo/6115543226.html\"></div>\n        </div>\nWe have a large sunny bedroom available for month to month lease starting June 1st. This is in a 4 bedroom apartment with 1 bathroom and spacious common areas.<br><br>\nThe apartment is located in the heart of Williamsburg (3 blocks from L Bedford Ave) directly across from the Whole Foods. A 15-minute commute to the city, Union Square.<br><br>\nThe room is currently furnished and my roommate is selling all her furniture for $1000, but you are welcome to bring your furniture as well. The rent is $1300 and you will have to pay first and last month and security deposit up front to out landlord ($1300 X 3= $3,900). All bills are around $60.<br><br>\nAbout us. We are one girl and two boys all 28 years old. We are looking for a female in her late 20 or early 30. @ of us work in fashion and the other in software development. We are looking for someone with a full-time job, who enjoys being social AND keeping common areas clean. We need someone who is respectful as we are all busy and have different schedules.<br>\nThe OPEN HOUSE will be Monday, May 8th from 7-9 pm. The door will be open we are on the second floor.<br><br>\n** The first photos are of the bedroom you will be leasing. The last set is of the furniture**    </section>"
+  ], 
+  "duration": 1445, 
+  "email_addr": "hwbjh-6115543226@hous.craigslist.org", 
+  "latitude": "40.716394", 
+  "longitude": "-73.959569", 
+  "map_accuracy": "10", 
+  "phone_number": "16786422179", 
+  "post_time": "2017-05-03T13:03:15-0400", 
+  "price": "1300", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115543226", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00l0l_dbn2LZ7LE1V_600x450.jpg", 
+    "https://images.craigslist.org/00x0x_hLwi17A7Pq9_600x450.jpg", 
+    "https://images.craigslist.org/01515_euUU9gCfAcN_600x450.jpg", 
+    "https://images.craigslist.org/00y0y_aYr7pUMhI2r_600x450.jpg", 
+    "https://images.craigslist.org/00909_eBzoaiR8MVq_600x450.jpg", 
+    "https://images.craigslist.org/00H0H_eRRyp1XZMc9_600x450.jpg", 
+    "https://images.craigslist.org/00e0e_aBqbaW155CC_600x450.jpg", 
+    "https://images.craigslist.org/00O0O_5jmILHCi7SI_600x450.jpg"
+  ], 
+  "title": "large and sunny bedroom 3 blocks from the l train- bedford ave n 4th", 
+  "type": "", 
+  "update_time": "2017-05-03T13:03:15-0400", 
+  "url": "https://newyork.craigslist.org/brk/roo/6115543226.html"
+}
+email sent for (https://newyork.craigslist.org/brk/roo/6115543226.html)!About to send email to : 9knqk-6115754511@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6115754511.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6115754511.html\"></div>\n        </div>\n<br>\nAvailable 06/01/17. Sunny, large size room, in 3br apt.  Available June 1st for $1,245 a month. Big closet, double bed. Cleaning lady every month. Located on 1st floor of gorgeous brownstone. Close to subway. Surrounded by restaurants and shops. A few blocks away from Central Park and Whole Foods. <br>\nYour roommates are 2 mid 20th professional girls, busy, easy going, clean. <br>\nLooking for FEMALE student or young professional in their 20s-early-30s, no couples, no pets.<br>\nWhen replying please tell me a little bit about yourself.<br></section>"
+  ], 
+  "duration": 627, 
+  "email_addr": "9knqk-6115754511@hous.craigslist.org", 
+  "latitude": "40.772654", 
+  "longitude": "-73.955553", 
+  "map_accuracy": "15", 
+  "post_time": "2017-05-03T15:09:09-0400", 
+  "price": "1285", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115754511", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00Q0Q_gGz280D95Lb_600x450.jpg", 
+    "https://images.craigslist.org/00a0a_SNcGKjMt1x_600x450.jpg", 
+    "https://images.craigslist.org/00101_3v7btP8F5Ao_600x450.jpg", 
+    "https://images.craigslist.org/00I0I_9MlwnbabWG5_600x450.jpg"
+  ], 
+  "title": "78_no fee furnished private bedroom in prime location", 
+  "type": "", 
+  "update_time": "2017-05-03T15:09:09-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6115754511.html"
+}
+About to send email to : q7n8q-6115776023@hous.craigslist.org (https://newyork.craigslist.org/mnh/sub/6115776023.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/sub/6115776023.html\"></div>\n        </div>\nHi there!<br><br>\nWe're looking for a third roommate to sublet the third room of our 3BR / 2 bath apartment in the UES from June 1st through the end of the lease (end of December). We are two consultants working in the healthcare industry, both 27 years old (one male, one female). We are both friendly and welcoming roommates, looking for someone who is clean, chill, and down to hang out. My 6-month old puppy, Winston, also lives in the apartment - so you must love dogs and be okay with living in the space with a dog. <br><br>\nOur apartment is a duplex in a 5th floor walk-up building. We have a great balcony, spiral staircase, dishwasher, heat and water. Utilities and cable are separate, and we have a laundromat right under our building. We are close to the 2nd avenue bars and restaurants as well as the 2nd avenue subway. <br><br>\nThe available room is on the main floor of the apartment (with the kitchen, living room, and one bathroom).<br><br>\nPlease contact me if you are interested with some information about yourself, and we can set up a time for you to see the apartment. <br><br>\nThanks!<br></section>"
+  ], 
+  "duration": 659, 
+  "email_addr": "q7n8q-6115776023@hous.craigslist.org", 
+  "latitude": "40.776300", 
+  "longitude": "-73.952900", 
+  "map_accuracy": "22", 
+  "post_time": "2017-05-03T15:22:19-0400", 
+  "price": "1300", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/sub/6115776023", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00d0d_2ibvClYX0SU_600x450.jpg", 
+    "https://images.craigslist.org/00101_jJesZk49VBd_600x450.jpg", 
+    "https://images.craigslist.org/00N0N_laCDv4SMrzf_600x450.jpg", 
+    "https://images.craigslist.org/00m0m_kfAlvPmSEZ5_600x450.jpg", 
+    "https://images.craigslist.org/00j0j_ertYsyvRxm_600x450.jpg"
+  ], 
+  "title": "room available in 3br/2bath duplex in yorkville", 
+  "type": "", 
+  "update_time": "2017-05-03T15:22:19-0400", 
+  "url": "https://newyork.craigslist.org/mnh/sub/6115776023.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6115754511.html)!email sent for (https://newyork.craigslist.org/mnh/sub/6115776023.html)!About to send email to : n9cgn-6115801935@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6115801935.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6115801935.html\"></div>\n        </div>\n1 fully furnished room available in a 3BR/2BA apartment in a conveniently located high-rise building in Herald Square. Looking for a female non-smoker, no pets, and gainfully employed. All you need to do is bring yourself and your belongings! No application fee or security deposit required for move-in. <br><br>\nRoom: <br>\n- The room is private with a lockable door. In addition to the dresser in the room, there is a walk-in closet in the hallway dedicated to the room. Since the closet contains shelves, it can house the majority of one's clothing <br>\n- The bathroom is shared with one roommate<br>\n- Furniture in room includes floor lamp, chair, desk, bookshelf (currently used for shoes), dresser, and full-size bed + mattress. Furniture can be purchased for a nominal charge ($100-$300 depending on what you would like to buy) <br>\n- Square footage is ~110 sq. ft. with a window <br>\n- Although the lease is up for renewal on July 1st, the rent is fairly stabilized (in my 2 years of living here, the rent has increased $10 to $20 max).<br><br>\nApartment:<br>\n- 2BR converted to 3BR, so there is a small living room we use to eat, study, or store some of our suitcases in<br>\n- Full kitchen with utensils, dish rack, microwave, stove top, oven, broiler, refrigerator, dishwasher, and freezer<br><br>\nRoommates: 2 down to earth, friendly girls in their mid/late-20's <br><br>\nBuilding:<br>\n- 24hr Doorman<br>\n- Multiple elevators<br>\n- Laundry room<br>\n- Mail/Package room<br>\n- Gym included (Free yoga classes offered 3x a week)<br>\n- Roof Deck <br>\n- Fedex, USPS, UPS drop off boxes in lobby<br>\n- Dry Cleaning services available in building<br><br>\nTransit: <br>\n- N, Q, R, B, D, F, M, and PATH just a few footsteps away from apartment<br>\n- 1, 2, 3, Penn Station are 1 block away<br>\n- A, C, E, 6 are 2 blocks away<br><br>\nIf you are interested, please send a few lines about yourself (including first name, current occupation, age) , and any questions you may have. <br>\nThanks so much!    </section>"
+  ], 
+  "duration": 744, 
+  "email_addr": "n9cgn-6115801935@hous.craigslist.org", 
+  "latitude": "40.749452", 
+  "longitude": "-73.987212", 
+  "map_accuracy": "7", 
+  "post_time": "2017-05-03T15:38:42-0400", 
+  "price": "1400", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115801935", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00000_gAae4e95uXw_600x450.jpg", 
+    "https://images.craigslist.org/00T0T_aeD68tUWovs_600x450.jpg", 
+    "https://images.craigslist.org/00b0b_2o4bwhmKmx0_600x450.jpg", 
+    "https://images.craigslist.org/00G0G_khMcs1LdycZ_600x450.jpg", 
+    "https://images.craigslist.org/00w0w_lHiDyPvwPkd_600x450.jpg", 
+    "https://images.craigslist.org/01414_6Crnx3GhYNK_600x450.jpg", 
+    "https://images.craigslist.org/00t0t_iry1ZYrQJMK_600x450.jpg", 
+    "https://images.craigslist.org/00v0v_9wz75s8GLwu_600x450.jpg"
+  ], 
+  "title": "1 fully furnished room available for june 1st (herald square)", 
+  "type": "", 
+  "update_time": "2017-05-03T15:40:37-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6115801935.html"
+}
+About to send email to : g6jtm-6115796484@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6115796484.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6115796484.html\"></div>\n        </div>\nThe bedroom is the largest room in the apartment with two large windows and access to the fire escape. The bedroom comes furnished The apartment is a two bedroom furnished with a couch kitchen and bathroom. It is on the 1st flight of stairs so its easy to get in and out of. The space requires no lease.    </section>"
+  ], 
+  "duration": 1350, 
+  "email_addr": "g6jtm-6115796484@hous.craigslist.org", 
+  "latitude": "40.715357", 
+  "longitude": "-73.997719", 
+  "map_accuracy": "15", 
+  "post_time": "2017-05-03T15:35:10-0400", 
+  "price": "1300", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115796484", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00U0U_4uRKP1Wpxsw_600x450.jpg", 
+    "https://images.craigslist.org/01313_1tbVXMw3xC5_600x450.jpg", 
+    "https://images.craigslist.org/01212_gtLa6M0VyY3_600x450.jpg"
+  ], 
+  "title": "amazing chinatown room", 
+  "type": "", 
+  "update_time": "2017-05-03T15:35:10-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6115796484.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6115801935.html)!email sent for (https://newyork.craigslist.org/mnh/roo/6115796484.html)!About to send email to : m4wgr-6115907065@hous.craigslist.org (https://newyork.craigslist.org/mnh/sub/6115907065.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/sub/6115907065.html\"></div>\n        </div>\nLooking to fill these rooms as soon as possible! <br>\nLooking for a max total of two people to take the living room of our one bed apartment. The entire living room has been flexed into two divided rooms. <br>\n--------------<br>\nLOCATION: <br>\n23rd St / FDR Dr [Manhattan]<br><br>\nDATES: <br>\n6/1 - 9/1  <br><br>\nPRICE:  <br>\n$1250 , $1050 separate rooms | or $2300 entire living room. <br>\n- Utilities avg $30 pp. <br>\n- Furnished with basics. <br>\n- Requires 1 month deposit at agreement and month to month rent with proof of income, OR 3 months rent upfront and no deposit. <br><br>\nROOM:<br>\nApprox. 600 sq ft of space in total; the living room has been flexed with curtains and dividers (bc of bldg policy) to make two rooms. One flex room is big enough to contain two queen beds, sofa, tv, and two desks, and also has a window ($1250). The other is smaller and has no windows ($1050). Or you two can share the whole space ($2300) and decide how to split it, we have plenty of furniture for any configuration. Pictures are just current states, itll look different when roommates move out. <br><br>\nYOU:<br>\n! neat, respectful ! The only two things we ask. <br>\nCan be: a couple, any gender, queer, smoker whatnot. Hopefully: young professionals / summer interns / students. <br>\nIdeally: you guys are comfortable sharing flexed spaces with each other. <br><br>\nROOMMATES: <br>\ntwo working female 24yo NYU grads living in the bedroom. One works night shift and the other noon shift so bathroom schedules wont clash.<br><br>\nAPARTMENT:<br>\n1 bed, 1 bathroom apartment at Peter Cooper Village, the northern sister of Stuy Town. Luxury finished amenties in kitchen and bathroom, two elevators, laundry in bldg, key card access and bike storage. <br><br>\nTRANSPORTATION:<br>\n-M23 : crosstown east/west along 23rd st<br>\n-M9   : goes down to Chinatown via LES <br>\n-M34A: goes along 34th st, Koreatown, Penn Station, AND Port Authority. <br>\n-M15 : runs north along 1st Ave to beyond Harlem<br>\n            runs south along 2nd Ave to fidi/South Ferry. <br>\nAll but m9 are SBS, so theyre faster and run every 10 min. <br>\n- L train on 14th/1st Ave<br>\n- NQR, 6 trains at Madison Sq Park/23rd st. <br>\n- NYU E shuttle, SVA shuttle. <br><br>\nPerfect for anyone who works on the East Side (any hospital from Hospital Row, the UN, Williamsburg, Wall St) or goes to NYU dental/nursing, Baruch, and SVA. <br><br>\nPlease email with the following info for the fastest response! Name, age, profession, and movein dates. I will not respond to emails without this info! Thank you :)    </section>"
+  ], 
+  "duration": 1434, 
+  "email_addr": "m4wgr-6115907065@hous.craigslist.org", 
+  "latitude": "40.735291", 
+  "longitude": "-73.975410", 
+  "map_accuracy": "7", 
+  "post_time": "2017-05-03T16:48:00-0400", 
+  "price": "1150", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/sub/6115907065", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00B0B_akmEwRNARNH_600x450.jpg", 
+    "https://images.craigslist.org/00101_dvoCAuCHExp_600x450.jpg", 
+    "https://images.craigslist.org/00D0D_HbOna9iio9_600x450.jpg", 
+    "https://images.craigslist.org/00R0R_8zGrXsFmI3O_600x450.jpg", 
+    "https://images.craigslist.org/00S0S_hm7vQjhN0KK_600x450.jpg", 
+    "https://images.craigslist.org/01313_k3yruotvulB_600x450.jpg", 
+    "https://images.craigslist.org/01010_jvv3estmJPO_600x450.jpg", 
+    "https://images.craigslist.org/00707_6zjWwEihbKp_600x450.jpg"
+  ], 
+  "title": "summer sublet in kips bay manhattan", 
+  "type": "/ 2br - ", 
+  "update_time": "2017-05-03T16:48:00-0400", 
+  "url": "https://newyork.craigslist.org/mnh/sub/6115907065.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/sub/6115907065.html)!About to send email to : btvwh-6115935461@hous.craigslist.org (https://newyork.craigslist.org/que/roo/6115935461.html)!
+About to text : 13478067907 (https://newyork.craigslist.org/que/roo/6115935461.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/que/roo/6115935461.html\"></div>\n        </div>\nOne male looking for a non-smoking roommate to share a 2 bedroom apt in a very quiet building, Must be clean and responsible. <br><br>\nThe apt is located about 5 min from R, M and 7 trains, and 10 minutes to LIRR. You're also only a short walk to Stop &amp; Shop supermarket and Home Depot. You're 2 blocks from the nearest laundromat, and 3 blocks from Starbucks, Boston Market, and Subway.  There's also a nice little park and playground that has a running track as well as a basketball and a handball court just 2 blocks away.  <br><br>\nAnd if you like to head to the movies once in a while you're just 15 min walk to the Kaufman movie theater in Astoria. <br><br>\nThe neighborhood is generally very quiet but friendly and has a bunch of really great restaurants and a decent amount of bars all within walking distance.<br><br>\nYou're also really close to several gyms if that's something that interests you. The apt is now available for viewing. Don't be shy. Just go ahead and drop me a quick email or text to set something up. Cheers.    </section>"
+  ], 
+  "duration": 1522, 
+  "email_addr": "btvwh-6115935461@hous.craigslist.org", 
+  "latitude": "40.749667", 
+  "longitude": "-73.909736", 
+  "map_accuracy": "10", 
+  "phone_number": "13478067907", 
+  "post_time": "2017-05-03T17:07:26-0400", 
+  "price": "1050", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115935461", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00g0g_5Mq0htZ7Hy9_600x450.jpg", 
+    "https://images.craigslist.org/00k0k_14Fai9DNV49_600x450.jpg", 
+    "https://images.craigslist.org/00R0R_7GGYimM2Ii9_600x450.jpg", 
+    "https://images.craigslist.org/00n0n_1yMgnjNjeze_600x450.jpg"
+  ], 
+  "title": "1 large  bedroom available in 2 bedroom apt", 
+  "type": "/ 170ft", 
+  "update_time": "2017-05-03T17:07:26-0400", 
+  "url": "https://newyork.craigslist.org/que/roo/6115935461.html"
+}
+email sent for (https://newyork.craigslist.org/que/roo/6115935461.html)!About to send email to : 5f5xk-6115950635@hous.craigslist.org (https://newyork.craigslist.org/que/roo/6115950635.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/que/roo/6115950635.html\"></div>\n        </div>\nMaster bedroom for rent with large closet and plenty of space in Astoria, located near Astoria park and less than a block away from the train station (N/W Lines). I currently live with 2 other male roommates with busy schedules who are very nice, clean and quiet. Room is available June 1st.<br>\nLocated on Astoria Blvd. and 33rd street.<br><br>\nBedroom will not be furnished. There is plenty of space for a desk, any size bed and other furniture.<br>\nElectrical and Internet bill are paid separately, usually around $50 dollars a month.<br>\nSecurity ($1067) + 1st month's rent ($1067) are required prior to moving in.<br><br>\nApartment has good lighting and large Kitchen with dishwasher, as well as a spacious living and dining room.<br>\nIf you're interested and need more details, please feel free to message me.    </section>"
+  ], 
+  "duration": 1232, 
+  "email_addr": "5f5xk-6115950635@hous.craigslist.org", 
+  "latitude": "40.769847", 
+  "longitude": "-73.916930", 
+  "map_accuracy": "15", 
+  "post_time": "2017-05-03T17:18:09-0400", 
+  "price": "1067", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6115950635", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00w0w_bkNrLGj6XaA_600x450.jpg", 
+    "https://images.craigslist.org/00L0L_9JRqeXeI6Iu_600x450.jpg"
+  ], 
+  "title": "1 bedroom in 3 bedroom apartment in astoria", 
+  "type": "", 
+  "update_time": "2017-05-03T17:18:09-0400", 
+  "url": "https://newyork.craigslist.org/que/roo/6115950635.html"
+}
+email sent for (https://newyork.craigslist.org/que/roo/6115950635.html)!About to send email to : b6jgm-6117529211@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6117529211.html)!
+{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/mnh/roo/6117529211.html\"></div>\n        </div>\nHey! Special deal on an available Flex bedroom in a large 3BR apartment right in the heart of the city, Hell's Kitchen. The apartment is a 19th floor CORNER unit, with views of Columbus Circle, Central Park and the Hudson River. Less than 5 block walk to each, as well as the N-Q-R-1-2-3-A-B-C-D-E trains. There is central air conditioning/heat. The building has a 24/7 Doorman, Elevator, and Laundry. You will be living with a clean, respectful 29-year old male  professional.<br><br>\nThe bedroom is available for move in on 6/1/17, and I am looking for a 1 year commitment.<br><br>\nPrice is $1100 a month + Cable. ELECTRIC/WATER/EVERYTHING ELSE IS INCLUDED. Again, you will only be paying your rent + your portion of the cable bill (only 25$ a month). The security deposit is less than a full month's rent - $900. You won't find a deal like this anywhere else in Manhattan, especially considering the location. THERE IS NO BROKER FEE or other move in fees, just first months rent and the security deposit.<br><br>\nThe Flex bedroom (yours) is sectioned off with a divider. It is furnished with a full size bed/mattress, a 4-drawer chest, and closet space in the hallway. The room is large and has a ton of natural light, but you can hear what is going on in the living room since it is not a full wall. I have an active social life and am out a lot, so many nights the apartment will be all yours. But, if you're looking for somewhere to close the door and hide out, this might not be the place for you.<br><br>\nALSO - There is also an older lady that comes to stay in the apartment once a year, for about 10 days each trip. During the time she is there, she stays in her room during the day and only really comes out to get some dinner from the kitchen in the late evening.<br><br>\nThis WILL GO FAST. Please e-mail me right away for more info, or to set up an appointment to view. If you include a link to your Facebook or LinkedIn, that will bump you to the front of the line.<br><br>\nThanks!    </section>"
+  ], 
+  "duration": 662, 
+  "email_addr": "b6jgm-6117529211@hous.craigslist.org", 
+  "latitude": "40.765112", 
+  "longitude": "-73.984026", 
+  "map_accuracy": "7", 
+  "post_time": "2017-05-04T18:44:14-0400", 
+  "price": "1100", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6117529211", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [
+    "https://images.craigslist.org/00A0A_28C3iAVMTif_600x450.jpg", 
+    "https://images.craigslist.org/00J0J_guaJhhTfHwq_600x450.jpg", 
+    "https://images.craigslist.org/00V0V_cbjoTyBVA2b_600x450.jpg", 
+    "https://images.craigslist.org/00M0M_jHx981pN1ix_600x450.jpg", 
+    "https://images.craigslist.org/01111_abHLciPraoB_600x450.jpg", 
+    "https://images.craigslist.org/00s0s_cfh2XmfGswH_600x450.jpg", 
+    "https://images.craigslist.org/00G0G_kO2r8ujG19z_600x450.jpg", 
+    "https://images.craigslist.org/00W0W_ejbDJvQWuh3_600x450.jpg", 
+    "https://images.craigslist.org/00D0D_dMKAuocBYEg_600x450.jpg", 
+    "https://images.craigslist.org/00101_dVG1EhxARac_600x450.jpg", 
+    "https://images.craigslist.org/00707_5pyrIKAqxnB_600x450.jpg", 
+    "https://images.craigslist.org/00K0K_fgeKonmp0zh_600x450.jpg", 
+    "https://images.craigslist.org/00n0n_b2cNcDbNiIN_600x450.jpg", 
+    "https://images.craigslist.org/00G0G_ay4Tuk7ZpQD_600x450.jpg", 
+    "https://images.craigslist.org/00e0e_8e5xQGJyjLs_600x450.jpg"
+  ], 
+  "title": "fully furnished room for rent - doorman building -1100$ a month", 
+  "type": "", 
+  "update_time": "2017-05-04T18:52:54-0400", 
+  "url": "https://newyork.craigslist.org/mnh/roo/6117529211.html"
+}
+email sent for (https://newyork.craigslist.org/mnh/roo/6117529211.html)!Starred but unable to CONNECT:{
+  "availability_start": "available jun 1", 
+  "body": [
+    "<section id=\"postingbody\"><div class=\"print-information print-qrcode-container\">\n            <p class=\"print-qrcode-label\">QR Code Link to This Post</p>\n            <div class=\"print-qrcode\" data-location=\"//newyork.craigslist.org/que/roo/6117566250.html\"></div>\n        </div>\nHi<br>\nPrivate room available in the heart of Astoria.<br>\n- Includes all utilities, Electric, Cable, Internet, NETFLIX, HULU, AMAZON. <br>\n-Close to all locations in Astoria. N,R,W,M trains 10 minutes walk. <br>\n-Restaurant and bars on 30th Ave  and Steinway is one block away.<br>\n-Laundry and Supermarket is also 1 block away<br>\n-Looking for someone in their 20's.<br>\n-Must be clean please!!<br>\nContact me for more info<br><a href=\"/fb/nyc/roo/6117566250\" class=\"showcontact\" title=\"click to show contact info\" rel=\"nofollow\">show contact info</a>\n    </section>"
+  ], 
+  "duration": 1629, 
+  "latitude": "40.765053", 
+  "longitude": "-73.912932", 
+  "map_accuracy": "7", 
+  "post_time": "2017-05-04T19:15:01-0400", 
+  "price": "700", 
+  "reply_link": "https://newyork.craigslist.org/reply/nyc/roo/6117566250", 
+  "skip_entry": false, 
+  "thumbnail_img_urls": [], 
+  "title": "astoria room for rent, one block away from 30th ave!!", 
+  "type": "", 
+  "update_time": "2017-05-04T19:15:01-0400", 
+  "url": "https://newyork.craigslist.org/que/roo/6117566250.html"
+}
