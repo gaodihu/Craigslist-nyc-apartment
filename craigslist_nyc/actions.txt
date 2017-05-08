@@ -214,3 +214,11 @@ About to send email to : 5f5xk-6115950635@hous.craigslist.org (https://newyork.c
 About to send email to : b6jgm-6117529211@hous.craigslist.org (https://newyork.craigslist.org/mnh/roo/6117529211.html)!
 Want to send email for (https://newyork.craigslist.org/que/roo/6117566250.html). But cannot grab email address (possibly due to Captcha)!
 
+Want to send email for (https://newyork.craigslist.org/mnh/roo/6117279619.html). But cannot grab email address (possibly due to Captcha)!
+Want to send email for (https://newyork.craigslist.org/que/roo/6117633294.html). But cannot grab email address (possibly due to Captcha:https://newyork.craigslist.org/reply/nyc/roo/6117633294)!
+Want to send email for (https://newyork.craigslist.org/mnh/roo/6117643900.html). But cannot grab email address (possibly due to Captcha:https://newyork.craigslist.org/reply/nyc/roo/6117643900)!
+Want to send email for (https://newyork.craigslist.org/mnh/sub/6117646991.html). But cannot grab email address (possibly due to Captcha:https://newyork.craigslist.org/reply/nyc/sub/6117646991)!
+Want to send email for (https://newyork.craigslist.org/mnh/roo/6117648920.html). But cannot grab email address (possibly due to Captcha:https://newyork.craigslist.org/reply/nyc/roo/6117648920)!
+Want to send email for (https://newyork.craigslist.org/mnh/abo/6117639088.html). But cannot grab email address (possibly due to Captcha:https://newyork.craigslist.org/reply/nyc/abo/6117639088)!
+Want to send email for (https://newyork.craigslist.org/que/roo/6117709676.html). But cannot grab email address (possibly due to Captcha:https://newyork.craigslist.org/reply/nyc/roo/6117709676)!
+Want to send email for (https://newyork.craigslist.org/mnh/sub/6117798160.html). But cannot grab email address (possibly due to Captcha:https://newyork.craigslist.org/reply/nyc/sub/6117798160)!

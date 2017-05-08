@@ -304,7 +304,7 @@ class MySpider(Spider):
         except IndexError as e:
             print str(e)
             print "Cannot grab email address from " + response.url + "! Full response"
-            self.log_actions("Want to send email for (" + url + "). But cannot grab email address (possibly due to Captcha)!\n")
+            self.log_actions("Want to send email for (" + url + "). But cannot grab email address (possibly due to Captcha:" + response.url + ")!\n")
             print response.text
             
         try:
