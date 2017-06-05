@@ -25,7 +25,7 @@ starred_path = "starred.txt"
 actions_path = "actions.txt"
 
 enable_directions_query = True
-google_directions_query_key = "AIzaSyDfbd9R06aZ304FMrqYD34sMrVKMrepv6E"
+google_directions_query_key = "YOUR.API.KEY"
 directions_query_prefix = "https://maps.googleapis.com/maps/api/directions/json?destination=40.761879,-73.968401&mode=transit&key=" + google_directions_query_key + "&origin="
 
 queried_urls = []
