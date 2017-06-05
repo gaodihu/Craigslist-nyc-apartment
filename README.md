@@ -2,6 +2,8 @@
 
 This is a script that crawls recent Craigslist posting for apartments in New York City, filter them by some (hard coded) standards, and email the listing we are interested in.
 
+The project was built and tested in the week of 04/27/17, and will not work if Craigslist updates their website (e.g. change element names, classes, layout, etc)!
+
 ### Current standards are:
  * Cheaper than $1500
  * Has a location in the listing, and from that location takes less than 25 minutes commute to 731 Lexington Avenue (by Google map queried from Google API)
@@ -60,4 +62,5 @@ Drop Zhehao <zhehao@cs.ucla.edu> an email if interested!
 **Big thanks to all the people that kindly responded and had the patience to set up a call with me!**
 
 
-**Irrelevant new problem: I'm looking for a roommate :P! My ad: https://newyork.craigslist.org/que/roo/6161826057.html**
+
+**Irrelevant but new problem: _I'm looking for a roommate_ :P! My ad: https://newyork.craigslist.org/que/roo/6161826057.html**
