@@ -55,12 +55,4 @@ MIT
 
 Drop Zhehao <zhehao@cs.ucla.edu> an email if interested!
 
-
-**Disclaimer: this script is hacked together in one night and a lot quick dirty workarounds are still around. Please don't run as is! If you are interested in extending the script, there are quite a few things on my mind, shoot me a message!**
-
-
-**Big thanks to all the people that kindly responded and had the patience to set up a call with me!**
-
-
-
-**Irrelevant but new problem: _I'm looking for a roommate_ :P! My ad: https://newyork.craigslist.org/que/roo/6161826057.html**
+**Big thanks to all the people that kindly responded.**
